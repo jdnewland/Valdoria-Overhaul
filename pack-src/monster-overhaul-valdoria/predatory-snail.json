@@ -1,0 +1,118 @@
+{
+ "_id": "qXTQ7jm8nAAMBuX4",
+ "name": "Predatory Snail",
+ "type": "NPC",
+ "img": "modules/valdoria-overhaul/art/predatory-snail.png",
+ "system": {
+  "level": {
+   "value": 7
+  },
+  "attributes": {
+   "ac": {
+    "value": 14,
+    "base": 14
+   },
+   "hp": {
+    "value": 32,
+    "max": 32,
+    "base": 32
+   }
+  },
+  "abilities": {
+   "str": {
+    "mod": 3,
+    "base": 16
+   },
+   "dex": {
+    "mod": -2,
+    "base": 6
+   },
+   "con": {
+    "mod": 3,
+    "base": 16
+   },
+   "int": {
+    "mod": -3,
+    "base": 4
+   },
+   "wis": {
+    "mod": 0,
+    "base": 10
+   },
+   "cha": {
+    "mod": -3,
+    "base": 4
+   }
+  },
+  "notes": "A large and purposeful snail: hard shell, soft foot, questing eyestalks. Moist chewing. Poor eyesight, excellent sense of smell; eats almost anything.\n\nConverted from The Monster Overhaul (Strange Water, p. 289). LV = HD, HP as printed; Shadowdark conversion by the Valdoria importer."
+ },
+ "prototypeToken": {
+  "name": "Predatory Snail",
+  "texture": {
+   "src": "modules/valdoria-overhaul/art/predatory-snail.png"
+  },
+  "actorLink": false,
+  "bar1": {
+   "attribute": "attributes.hp"
+  }
+ },
+ "items": [
+  {
+   "_id": "AC5Mb3DgQlT9uDuJ",
+   "name": "Bite +8 (1d6)",
+   "type": "NPC Attack",
+   "img": "icons/svg/sword.svg",
+   "system": {
+    "description": "",
+    "source": "",
+    "attack": "",
+    "attackType": "",
+    "bonuses": {},
+    "damage": "1d6",
+    "ranges": "near"
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!qXTQ7jm8nAAMBuX4.AC5Mb3DgQlT9uDuJ"
+  },
+  {
+   "_id": "7es1qnf1gIejDIwb",
+   "name": "Relentless Nose",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "Follows an interesting smell to its source, attacks, then investigates and devours the results. Retreats from bright light or sustained violence.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!qXTQ7jm8nAAMBuX4.7es1qnf1gIejDIwb"
+  },
+  {
+   "_id": "vXoNAL1Tk5LJWsU4",
+   "name": "Slow Doom",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "Moves at a quarter of normal speed — and never, ever stops. An intact shell is worth 200 gp.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!qXTQ7jm8nAAMBuX4.vXoNAL1Tk5LJWsU4"
+  }
+ ],
+ "effects": [],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!actors!qXTQ7jm8nAAMBuX4"
+}

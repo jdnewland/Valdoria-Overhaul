@@ -1,0 +1,117 @@
+{
+ "_id": "oC3GYRM6Wdi16GTf",
+ "name": "Combat — F21 The Glass Calm",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F21 The Glass Calm (22,17) · Coast / Sakeen Sea. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "cUz8kOVM4oIf9sSK",
+   "type": "text",
+   "text": "1d4 Shark (LV 3) — circling blood in the water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!oC3GYRM6Wdi16GTf.cUz8kOVM4oIf9sSK"
+  },
+  {
+   "_id": "01VRD73YzkPkRyhQ",
+   "type": "text",
+   "text": "2d4 Merfolk (LV 2) — a territorial shoal-guard",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!oC3GYRM6Wdi16GTf.01VRD73YzkPkRyhQ"
+  },
+  {
+   "_id": "PSfBc22pbgfqVeUo",
+   "type": "text",
+   "text": "2d6 Deep One (LV 2) — rising from the deep water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!oC3GYRM6Wdi16GTf.PSfBc22pbgfqVeUo"
+  },
+  {
+   "_id": "KzO4cU38X34YUueV",
+   "type": "text",
+   "text": "2d6 Pirate (LV 1) — a boarding party",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!oC3GYRM6Wdi16GTf.KzO4cU38X34YUueV"
+  },
+  {
+   "_id": "6XpTmqFcxHQINCR2",
+   "type": "text",
+   "text": "1d4 Siren (LV 4) — becalmed ships sing back, eventually",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!oC3GYRM6Wdi16GTf.6XpTmqFcxHQINCR2"
+  },
+  {
+   "_id": "r1rkrl5h1JozcVoq",
+   "type": "text",
+   "text": "⚠ 1 Kraken (LV 17) — the calm is a held breath; do not be here when it ends",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!oC3GYRM6Wdi16GTf.r1rkrl5h1JozcVoq"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!oC3GYRM6Wdi16GTf"
+}

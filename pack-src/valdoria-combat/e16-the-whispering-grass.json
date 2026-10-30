@@ -1,0 +1,117 @@
+{
+ "_id": "4GVZyhqE9CWn5lJw",
+ "name": "Combat — E16 The Whispering Grass",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for E16 The Whispering Grass (17,17) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "GMQENjN26U1cCfR7",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!4GVZyhqE9CWn5lJw.GMQENjN26U1cCfR7"
+  },
+  {
+   "_id": "C04OAWgawwM5Qtwr",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!4GVZyhqE9CWn5lJw.C04OAWgawwM5Qtwr"
+  },
+  {
+   "_id": "oR667xhq2muIb6Lp",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!4GVZyhqE9CWn5lJw.oR667xhq2muIb6Lp"
+  },
+  {
+   "_id": "3hHF9bWF5jeZI9st",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!4GVZyhqE9CWn5lJw.3hHF9bWF5jeZI9st"
+  },
+  {
+   "_id": "UmRA2BcTqOT4Bjqo",
+   "type": "text",
+   "text": "2d6 Zombie (LV 2) — the ley line's dead, standing in the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!4GVZyhqE9CWn5lJw.UmRA2BcTqOT4Bjqo"
+  },
+  {
+   "_id": "bO7qCy9TaGXhE3yC",
+   "type": "text",
+   "text": "1d4 Shadow (LV 3) — the whispers, given shape at dusk",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!4GVZyhqE9CWn5lJw.bO7qCy9TaGXhE3yC"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!4GVZyhqE9CWn5lJw"
+}

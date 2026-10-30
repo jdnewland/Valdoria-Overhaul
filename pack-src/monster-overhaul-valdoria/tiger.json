@@ -1,0 +1,154 @@
+{
+ "_id": "NnKBXzkjXmj9NAdc",
+ "name": "Tiger",
+ "type": "NPC",
+ "img": "modules/valdoria-overhaul/art/tiger.png",
+ "system": {
+  "level": {
+   "value": 5
+  },
+  "attributes": {
+   "ac": {
+    "value": 11,
+    "base": 11
+   },
+   "hp": {
+    "value": 23,
+    "max": 23,
+    "base": 23
+   }
+  },
+  "abilities": {
+   "str": {
+    "mod": 4,
+    "base": 18
+   },
+   "dex": {
+    "mod": 3,
+    "base": 16
+   },
+   "con": {
+    "mod": 2,
+    "base": 14
+   },
+   "int": {
+    "mod": -1,
+    "base": 8
+   },
+   "wis": {
+    "mod": 2,
+    "base": 14
+   },
+   "cha": {
+    "mod": 0,
+    "base": 10
+   }
+  },
+  "notes": "A large orange and black striped cat. Gruff rumbles, guttural roar. Relentlessly predatory and unforgiving.\n\nConverted from The Monster Overhaul (Hostile Forests, p. 243). LV = HD, HP as printed; Shadowdark conversion by the Valdoria importer."
+ },
+ "prototypeToken": {
+  "name": "Tiger",
+  "texture": {
+   "src": "modules/valdoria-overhaul/art/tiger.png"
+  },
+  "actorLink": false,
+  "bar1": {
+   "attribute": "attributes.hp"
+  }
+ },
+ "items": [
+  {
+   "_id": "Fi0sCvkj5xWvKjvc",
+   "name": "Claw +7 (1d6) ×2",
+   "type": "NPC Attack",
+   "img": "icons/svg/sword.svg",
+   "system": {
+    "description": "",
+    "source": "",
+    "attack": "",
+    "attackType": "",
+    "bonuses": {},
+    "damage": "1d6",
+    "ranges": "near"
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!NnKBXzkjXmj9NAdc.Fi0sCvkj5xWvKjvc"
+  },
+  {
+   "_id": "ltt2Agh5lrT9iMw5",
+   "name": "Bite +7 (1d8)",
+   "type": "NPC Attack",
+   "img": "icons/svg/sword.svg",
+   "system": {
+    "description": "",
+    "source": "",
+    "attack": "",
+    "attackType": "",
+    "bonuses": {},
+    "damage": "1d8",
+    "ranges": "near"
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!NnKBXzkjXmj9NAdc.ltt2Agh5lrT9iMw5"
+  },
+  {
+   "_id": "1qJcIz8CTyBGvwcG",
+   "name": "Rake",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "If both claw attacks hit the same target, the tiger makes two additional claw attacks against that target.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!NnKBXzkjXmj9NAdc.1qJcIz8CTyBGvwcG"
+  },
+  {
+   "_id": "lPtbOWqRktEROp1j",
+   "name": "Unseen Stalker",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "In tall grass, forest, or darkness, a tiger is effectively invisible if it is more than 20 ft from its target.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!NnKBXzkjXmj9NAdc.lPtbOWqRktEROp1j"
+  },
+  {
+   "_id": "xZjNPjeqTbqwTehH",
+   "name": "Grudges",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "Tigers are more cunning than all but the most veteran hunters, fully capable of patient, deceptive, multi-year strategies. They hold grudges.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!NnKBXzkjXmj9NAdc.xZjNPjeqTbqwTehH"
+  }
+ ],
+ "effects": [],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!actors!NnKBXzkjXmj9NAdc"
+}

@@ -1,0 +1,117 @@
+{
+ "_id": "96gWHkqQLNHdbpxk",
+ "name": "Combat — D2 The Ditch Meadow",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for D2 The Ditch Meadow (16,12) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "oyO93A5RLZIc4s4G",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!96gWHkqQLNHdbpxk.oyO93A5RLZIc4s4G"
+  },
+  {
+   "_id": "NExS6hCbWPfDUGmy",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!96gWHkqQLNHdbpxk.NExS6hCbWPfDUGmy"
+  },
+  {
+   "_id": "qr9cHMFlGPcqyY7r",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!96gWHkqQLNHdbpxk.qr9cHMFlGPcqyY7r"
+  },
+  {
+   "_id": "yr7siULseJnVovOp",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!96gWHkqQLNHdbpxk.yr7siULseJnVovOp"
+  },
+  {
+   "_id": "9DbqyEUj6sosoJP6",
+   "type": "text",
+   "text": "2d4 Leech of Paradise† (LV 0) — the ditches are full of blessings",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!96gWHkqQLNHdbpxk.9DbqyEUj6sosoJP6"
+  },
+  {
+   "_id": "Etl16DJYcw1IUCs4",
+   "type": "text",
+   "text": "⚠ 1 Predatory Snail† (LV 7) — following a smell, slowly, all day",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!96gWHkqQLNHdbpxk.Etl16DJYcw1IUCs4"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!96gWHkqQLNHdbpxk"
+}

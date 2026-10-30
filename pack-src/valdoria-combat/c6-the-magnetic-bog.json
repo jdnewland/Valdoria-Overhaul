@@ -1,0 +1,117 @@
+{
+ "_id": "T0uvCtjO8b6st4LM",
+ "name": "Combat — C6 The Magnetic Bog",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for C6 The Magnetic Bog (18,10) · Mire / Marsh / Bog. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "kGsfDocmqKTwQ8uW",
+   "type": "text",
+   "text": "2d6 Leech, Giant (LV 2) — in the black water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!T0uvCtjO8b6st4LM.kGsfDocmqKTwQ8uW"
+  },
+  {
+   "_id": "MUc6Ds2fHDgGEeGJ",
+   "type": "text",
+   "text": "1 Violet Fungus (LV 2) — rooted in the path; it doesn't chase, it waits",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!T0uvCtjO8b6st4LM.MUc6Ds2fHDgGEeGJ"
+  },
+  {
+   "_id": "GS9HZj9nL6oETOla",
+   "type": "text",
+   "text": "2d4 Lizardfolk (LV 2) — a hunting party in the reeds",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!T0uvCtjO8b6st4LM.GS9HZj9nL6oETOla"
+  },
+  {
+   "_id": "3D1QAgEmyIQs50Yu",
+   "type": "text",
+   "text": "1d4 Frog, Giant (LV 2) — tongues first, questions never",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!T0uvCtjO8b6st4LM.3D1QAgEmyIQs50Yu"
+  },
+  {
+   "_id": "rcIEOChVUP2qVg0w",
+   "type": "text",
+   "text": "1d4 Ghoul (LV 2) — bog corpses in old Temple grey, drawn to the Rock",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!T0uvCtjO8b6st4LM.rcIEOChVUP2qVg0w"
+  },
+  {
+   "_id": "Yjalfv9i7SfAxNCV",
+   "type": "text",
+   "text": "⚠ 1 Black Pudding (LV 6) — the thing under the peat that shifts when the Rock is touched",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!T0uvCtjO8b6st4LM.Yjalfv9i7SfAxNCV"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!T0uvCtjO8b6st4LM"
+}

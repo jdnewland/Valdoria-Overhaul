@@ -1,0 +1,118 @@
+{
+  "_id": "2q1vGjXK0F5v7SZY",
+  "name": "Dryad (Overhaul)",
+  "type": "NPC",
+  "img": "modules/valdoria-overhaul/art/dryad.png",
+  "system": {
+    "level": {
+      "value": 2
+    },
+    "attributes": {
+      "ac": {
+        "value": 11,
+        "base": 11
+      },
+      "hp": {
+        "value": 9,
+        "max": 9,
+        "base": 9
+      }
+    },
+    "abilities": {
+      "str": {
+        "mod": -1,
+        "base": 8
+      },
+      "dex": {
+        "mod": 1,
+        "base": 12
+      },
+      "con": {
+        "mod": 0,
+        "base": 10
+      },
+      "int": {
+        "mod": 0,
+        "base": 10
+      },
+      "wis": {
+        "mod": 2,
+        "base": 14
+      },
+      "cha": {
+        "mod": 3,
+        "base": 16
+      }
+    },
+    "notes": "An alluring human figure formed from light and vegetation. A few extremely polite words. Shy, kind, and aloof.\n\nConverted from The Monster Overhaul (Hostile Forests, p. 240). LV = HD, HP as printed; Shadowdark conversion by the Valdoria importer."
+  },
+  "prototypeToken": {
+    "name": "Dryad (Overhaul)",
+    "texture": {
+      "src": "modules/valdoria-overhaul/art/dryad.png"
+    },
+    "actorLink": false,
+    "bar1": {
+      "attribute": "attributes.hp"
+    }
+  },
+  "items": [
+    {
+      "_id": "o6kyf8l2vwa9svDR",
+      "name": "Branchclaw +4 (1d6)",
+      "type": "NPC Attack",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "attack": "",
+        "attackType": "",
+        "bonuses": {},
+        "damage": "1d6",
+        "ranges": "near"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!2q1vGjXK0F5v7SZY.o6kyf8l2vwa9svDR"
+    },
+    {
+      "_id": "mGXtD9bTNgANdMpD",
+      "name": "Charm Creature",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "Up to 3 times per day, 100 ft range: a target must Save or treat the dryad as a good friend for 1 week. Any directly harmful action by the dryad ends the effect.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!2q1vGjXK0F5v7SZY.mGXtD9bTNgANdMpD"
+    },
+    {
+      "_id": "li6IZ2TQIn0e54g6",
+      "name": "Bound to the Tree",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "Any damage to the dryad's home plant is also inflicted on the dryad. She cannot move more than 300 ft from it, and steps through plants as if they were water.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!2q1vGjXK0F5v7SZY.li6IZ2TQIn0e54g6"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "sort": 0,
+  "_key": "!actors!2q1vGjXK0F5v7SZY"
+}

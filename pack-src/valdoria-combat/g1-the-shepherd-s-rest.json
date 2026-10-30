@@ -1,0 +1,117 @@
+{
+ "_id": "yCPtX309mcH6405S",
+ "name": "Combat — G1 The Shepherd's Rest",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for G1 The Shepherd's Rest (16,10) · Mire / Marsh / Bog. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "wo4OeYpq4Zjjx9l3",
+   "type": "text",
+   "text": "2d4 Lizardfolk (LV 2) — a hunting party in the reeds",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!yCPtX309mcH6405S.wo4OeYpq4Zjjx9l3"
+  },
+  {
+   "_id": "2vW58DUeclZVTU9b",
+   "type": "text",
+   "text": "1d4 Frog, Giant (LV 2) — tongues first, questions never",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!yCPtX309mcH6405S.2vW58DUeclZVTU9b"
+  },
+  {
+   "_id": "1obMcr5HVdXEwxN5",
+   "type": "text",
+   "text": "2d6 Leech, Giant (LV 2) — in the black water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!yCPtX309mcH6405S.1obMcr5HVdXEwxN5"
+  },
+  {
+   "_id": "3UtyHGnVsutYzun8",
+   "type": "text",
+   "text": "1 Violet Fungus (LV 2) — rooted in the path; it doesn't chase, it waits",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!yCPtX309mcH6405S.3UtyHGnVsutYzun8"
+  },
+  {
+   "_id": "TwL05Km1KYcRWyd9",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — after the flock's salt and stores",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!yCPtX309mcH6405S.TwL05Km1KYcRWyd9"
+  },
+  {
+   "_id": "hUKGHi9AXQ83Gd8o",
+   "type": "text",
+   "text": "1 Griffon (LV 4) — the cairn-maker, back for another shepherd",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!yCPtX309mcH6405S.hUKGHi9AXQ83Gd8o"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!yCPtX309mcH6405S"
+}

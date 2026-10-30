@@ -1,0 +1,138 @@
+{
+  "_id": "Lq519HrmHIcqw7Q0",
+  "name": "Crocodile (Overhaul)",
+  "type": "NPC",
+  "img": "modules/valdoria-overhaul/art/crocodile.png",
+  "system": {
+    "level": {
+      "value": 4
+    },
+    "attributes": {
+      "ac": {
+        "value": 14,
+        "base": 14
+      },
+      "hp": {
+        "value": 18,
+        "max": 18,
+        "base": 18
+      }
+    },
+    "abilities": {
+      "str": {
+        "mod": 3,
+        "base": 16
+      },
+      "dex": {
+        "mod": 0,
+        "base": 10
+      },
+      "con": {
+        "mod": 2,
+        "base": 14
+      },
+      "int": {
+        "mod": -3,
+        "base": 4
+      },
+      "wis": {
+        "mod": 1,
+        "base": 12
+      },
+      "cha": {
+        "mod": -3,
+        "base": 4
+      }
+    },
+    "notes": "A squat green-grey aquatic reptile with abundant teeth and a long tail. Silent; hatchlings squeak.\n\nConverted from The Monster Overhaul (Hot Plains, p. 251). LV = HD, HP as printed; Shadowdark conversion by the Valdoria importer."
+  },
+  "prototypeToken": {
+    "name": "Crocodile (Overhaul)",
+    "texture": {
+      "src": "modules/valdoria-overhaul/art/crocodile.png"
+    },
+    "actorLink": false,
+    "bar1": {
+      "attribute": "attributes.hp"
+    }
+  },
+  "items": [
+    {
+      "_id": "tR64yJMP4jOlaD6e",
+      "name": "Claw +6 (1d6) \u00d72",
+      "type": "NPC Attack",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "attack": "",
+        "attackType": "",
+        "bonuses": {},
+        "damage": "1d6",
+        "ranges": "near"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!Lq519HrmHIcqw7Q0.tR64yJMP4jOlaD6e"
+    },
+    {
+      "_id": "lUqEK0mUiKTfg0Ep",
+      "name": "Bite +6 (1d20)",
+      "type": "NPC Attack",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "attack": "",
+        "attackType": "",
+        "bonuses": {},
+        "damage": "1d20",
+        "ranges": "near"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!Lq519HrmHIcqw7Q0.lUqEK0mUiKTfg0Ep"
+    },
+    {
+      "_id": "eZ6FzFLd5jpffAVQ",
+      "name": "Ambush Predator",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "Attacks from almost perfect concealment in the water, then rips at entangled prey with its claws. Defends its own hatchlings and nest fiercely.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!Lq519HrmHIcqw7Q0.eZ6FzFLd5jpffAVQ"
+    },
+    {
+      "_id": "7xeSPgnBNroWug2r",
+      "name": "Remorseful",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "Crocodiles always weep after eating a person. They feel genuine remorse.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!Lq519HrmHIcqw7Q0.7xeSPgnBNroWug2r"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "sort": 0,
+  "_key": "!actors!Lq519HrmHIcqw7Q0"
+}

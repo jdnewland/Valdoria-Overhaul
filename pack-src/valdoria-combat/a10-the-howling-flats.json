@@ -1,0 +1,117 @@
+{
+ "_id": "C2FlFzNSFH0vQ8E3",
+ "name": "Combat — A10 The Howling Flats",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for A10 The Howling Flats (16,16) · Desert / Cinder Wastes. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "ylGucqx5kpTAPFLj",
+   "type": "text",
+   "text": "2d6 Scorpion (LV 0) — under rocks and cactus roots",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!C2FlFzNSFH0vQ8E3.ylGucqx5kpTAPFLj"
+  },
+  {
+   "_id": "d7KpviudJ2M7aGOs",
+   "type": "text",
+   "text": "1d6 Vulture (LV 1) — circling something dead; bold if the party is bleeding",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!C2FlFzNSFH0vQ8E3.d7KpviudJ2M7aGOs"
+  },
+  {
+   "_id": "PKPkNv75riDcEvXo",
+   "type": "text",
+   "text": "1 Ankheg (LV 3) — bursting from the ash drift",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!C2FlFzNSFH0vQ8E3.PKPkNv75riDcEvXo"
+  },
+  {
+   "_id": "hiL13hgIa2Wzckrb",
+   "type": "text",
+   "text": "2d4 Baboon† (LV 1) — a raiding troop; grabs loose gear and runs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!C2FlFzNSFH0vQ8E3.hiL13hgIa2Wzckrb"
+  },
+  {
+   "_id": "KUg2AMIT7fdJTFrp",
+   "type": "text",
+   "text": "1d4 Hyena† (LV 3) — laughing in the canyon wind",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!C2FlFzNSFH0vQ8E3.KUg2AMIT7fdJTFrp"
+  },
+  {
+   "_id": "wAWf5V2n1DSKDMgC",
+   "type": "text",
+   "text": "⚠ 1 Ghost (LV 6) — a voice in the wind that knows your name",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!C2FlFzNSFH0vQ8E3.wAWf5V2n1DSKDMgC"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!C2FlFzNSFH0vQ8E3"
+}

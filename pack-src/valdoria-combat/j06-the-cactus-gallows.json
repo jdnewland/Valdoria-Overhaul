@@ -1,0 +1,117 @@
+{
+ "_id": "u15ixCvtEzDKsxS0",
+ "name": "Combat — J06 The Cactus Gallows",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for J06 The Cactus Gallows (14,12) · Desert / Cinder Wastes. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "tCPBlwbrjYvy7xWw",
+   "type": "text",
+   "text": "2d4 Baboon† (LV 1) — a raiding troop; grabs loose gear and runs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!u15ixCvtEzDKsxS0.tCPBlwbrjYvy7xWw"
+  },
+  {
+   "_id": "yebuP2TuYyDzx7wE",
+   "type": "text",
+   "text": "2d6 Scorpion (LV 0) — under rocks and cactus roots",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!u15ixCvtEzDKsxS0.yebuP2TuYyDzx7wE"
+  },
+  {
+   "_id": "EQC6CM6sH57XRVWx",
+   "type": "text",
+   "text": "1d6 Vulture (LV 1) — circling something dead; bold if the party is bleeding",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!u15ixCvtEzDKsxS0.EQC6CM6sH57XRVWx"
+  },
+  {
+   "_id": "Izhsm8gwEBgaqBPS",
+   "type": "text",
+   "text": "1 Ankheg (LV 3) — bursting from the ash drift",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!u15ixCvtEzDKsxS0.Izhsm8gwEBgaqBPS"
+  },
+  {
+   "_id": "o2DygUWgF3AwQiw4",
+   "type": "text",
+   "text": "2d6 Zombie (LV 2) — Casimir's garden dead, standing in their rows",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!u15ixCvtEzDKsxS0.o2DygUWgF3AwQiw4"
+  },
+  {
+   "_id": "Rxhqkxvu21y5GHNz",
+   "type": "text",
+   "text": "1 Necromancer (Overhaul)† (LV 7) — Casimir Holt, the Gallows Gardener; parley first — he offers tea",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!u15ixCvtEzDKsxS0.Rxhqkxvu21y5GHNz"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!u15ixCvtEzDKsxS0"
+}

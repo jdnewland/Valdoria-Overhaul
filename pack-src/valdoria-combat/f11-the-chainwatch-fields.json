@@ -1,0 +1,117 @@
+{
+ "_id": "39b1CA5gGoxGyqam",
+ "name": "Combat — F11 The Chainwatch Fields",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F11 The Chainwatch Fields (23,14) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "zbEeFQsMuP3nEO3E",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!39b1CA5gGoxGyqam.zbEeFQsMuP3nEO3E"
+  },
+  {
+   "_id": "5IG1PlmKYI9NJkQ4",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!39b1CA5gGoxGyqam.5IG1PlmKYI9NJkQ4"
+  },
+  {
+   "_id": "0h3RuMuAuYZfsiZN",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!39b1CA5gGoxGyqam.0h3RuMuAuYZfsiZN"
+  },
+  {
+   "_id": "DyYPfTlHhJkCVJY8",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!39b1CA5gGoxGyqam.DyYPfTlHhJkCVJY8"
+  },
+  {
+   "_id": "XUD8RUptlnJcxLjB",
+   "type": "text",
+   "text": "2d4 Guard (LV 1) — the chain-watch, old sailors with pikes",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!39b1CA5gGoxGyqam.XUD8RUptlnJcxLjB"
+  },
+  {
+   "_id": "3zEs2O506D24y4gD",
+   "type": "text",
+   "text": "⚠ 1 Giant Crab (Overhaul)† (LV 5) — it comes ashore for the winch-house grease",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!39b1CA5gGoxGyqam.3zEs2O506D24y4gD"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!39b1CA5gGoxGyqam"
+}

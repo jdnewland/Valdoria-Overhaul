@@ -1,0 +1,117 @@
+{
+ "_id": "h5p9r4PO5At1Cp8b",
+ "name": "Combat — F5 The Siren's Ledger",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F5 The Siren's Ledger (23,15) · Coast / Sakeen Sea. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "JiGZnPJEpmRH49vH",
+   "type": "text",
+   "text": "1d4 Shark (LV 3) — circling blood in the water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!h5p9r4PO5At1Cp8b.JiGZnPJEpmRH49vH"
+  },
+  {
+   "_id": "eiUuoj0GQ0QZ5hDf",
+   "type": "text",
+   "text": "2d4 Merfolk (LV 2) — a territorial shoal-guard",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!h5p9r4PO5At1Cp8b.eiUuoj0GQ0QZ5hDf"
+  },
+  {
+   "_id": "7uPJhbE8H8kyum3w",
+   "type": "text",
+   "text": "2d6 Deep One (LV 2) — rising from the deep water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!h5p9r4PO5At1Cp8b.7uPJhbE8H8kyum3w"
+  },
+  {
+   "_id": "QMZCGthXn7wb93lB",
+   "type": "text",
+   "text": "2d6 Pirate (LV 1) — a boarding party",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!h5p9r4PO5At1Cp8b.QMZCGthXn7wb93lB"
+  },
+  {
+   "_id": "LiN5SGDqkmrsIYKf",
+   "type": "text",
+   "text": "1d4 Siren (LV 4) — the ledger-keepers, singing accounts",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!h5p9r4PO5At1Cp8b.LiN5SGDqkmrsIYKf"
+  },
+  {
+   "_id": "Mwt7Yg7wA9FMsRMB",
+   "type": "text",
+   "text": "⚠ 1 Hag, Sea (LV 6) — she audits the sirens",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!h5p9r4PO5At1Cp8b.Mwt7Yg7wA9FMsRMB"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!h5p9r4PO5At1Cp8b"
+}

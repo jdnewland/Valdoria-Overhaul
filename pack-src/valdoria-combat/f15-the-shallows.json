@@ -1,0 +1,117 @@
+{
+ "_id": "6M8jWwVPNTMFd3G9",
+ "name": "Combat — F15 The Shallows",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F15 The Shallows (21,16) · Coast / Sakeen Sea. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "W0DpvIPD9ZGBe83U",
+   "type": "text",
+   "text": "2d6 Deep One (LV 2) — rising from the deep water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!6M8jWwVPNTMFd3G9.W0DpvIPD9ZGBe83U"
+  },
+  {
+   "_id": "hXffquG7jaOMK3zI",
+   "type": "text",
+   "text": "2d6 Pirate (LV 1) — a boarding party",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!6M8jWwVPNTMFd3G9.hXffquG7jaOMK3zI"
+  },
+  {
+   "_id": "wlvujlNyLmVSAp4V",
+   "type": "text",
+   "text": "1d4 Shark (LV 3) — circling blood in the water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!6M8jWwVPNTMFd3G9.wlvujlNyLmVSAp4V"
+  },
+  {
+   "_id": "70fF92j9wBBQJhEa",
+   "type": "text",
+   "text": "2d4 Merfolk (LV 2) — a territorial shoal-guard",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!6M8jWwVPNTMFd3G9.70fF92j9wBBQJhEa"
+  },
+  {
+   "_id": "kBxgIlnjP7nUhsxu",
+   "type": "text",
+   "text": "⚠ 1 Giant Crab (Overhaul)† (LV 5) — wagon-sized, in the eel-grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!6M8jWwVPNTMFd3G9.kBxgIlnjP7nUhsxu"
+  },
+  {
+   "_id": "fCOI1PpPv8sHZKtJ",
+   "type": "text",
+   "text": "2d4 Merfolk (LV 2) — fisherfolk defending the poles",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!6M8jWwVPNTMFd3G9.fCOI1PpPv8sHZKtJ"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!6M8jWwVPNTMFd3G9"
+}

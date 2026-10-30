@@ -1,0 +1,117 @@
+{
+ "_id": "egusNqpxzK2aVuCM",
+ "name": "Combat — C4 The Salt Clearing",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for C4 The Salt Clearing (20,13) · Woodland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "oclhS7BZWSBOzuXC",
+   "type": "text",
+   "text": "2d6 Boar (Overhaul)† (LV 3) — a sounder defending its piglets",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!egusNqpxzK2aVuCM.oclhS7BZWSBOzuXC"
+  },
+  {
+   "_id": "ZqLoIi87kpWBeBil",
+   "type": "text",
+   "text": "1 Ettercap (LV 3) — herding its spiders",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!egusNqpxzK2aVuCM.ZqLoIi87kpWBeBil"
+  },
+  {
+   "_id": "FlhFLYqxAB6oAXPu",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — shadowing the trail",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!egusNqpxzK2aVuCM.FlhFLYqxAB6oAXPu"
+  },
+  {
+   "_id": "O2Z6LJdyW76HcUtB",
+   "type": "text",
+   "text": "1 Spider, Giant (LV 3) — webs across the path",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!egusNqpxzK2aVuCM.O2Z6LJdyW76HcUtB"
+  },
+  {
+   "_id": "yvRLyBDkWbE88kK4",
+   "type": "text",
+   "text": "2d4 Lizardfolk (LV 2) — contesting the brine spring",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!egusNqpxzK2aVuCM.yvRLyBDkWbE88kK4"
+  },
+  {
+   "_id": "SBKaEUjkX6UjptqV",
+   "type": "text",
+   "text": "1 Dryad (Overhaul)† (LV 2) — the clearing's salt-widow, defending her tree",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!egusNqpxzK2aVuCM.SBKaEUjkX6UjptqV"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!egusNqpxzK2aVuCM"
+}

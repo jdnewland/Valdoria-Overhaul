@@ -1,0 +1,117 @@
+{
+ "_id": "mNyydfB5CBhpMFbl",
+ "name": "Combat — J03 Granite Crag & Dank Cave",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for J03 Granite Crag & Dank Cave (18,11) · Woodland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "5c13NVM1VTFPPVdf",
+   "type": "text",
+   "text": "1 Spider, Giant (LV 3) — webs across the path",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!mNyydfB5CBhpMFbl.5c13NVM1VTFPPVdf"
+  },
+  {
+   "_id": "guEO1xvNW1SIdH9C",
+   "type": "text",
+   "text": "2d6 Boar (Overhaul)† (LV 3) — a sounder defending its piglets",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!mNyydfB5CBhpMFbl.guEO1xvNW1SIdH9C"
+  },
+  {
+   "_id": "8JPLRmgs6lgZYUaW",
+   "type": "text",
+   "text": "1 Ettercap (LV 3) — herding its spiders",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!mNyydfB5CBhpMFbl.8JPLRmgs6lgZYUaW"
+  },
+  {
+   "_id": "YwX6Nhn2SDBsBrIh",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — shadowing the trail",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!mNyydfB5CBhpMFbl.YwX6Nhn2SDBsBrIh"
+  },
+  {
+   "_id": "euDhVvdiKeEY8EUJ",
+   "type": "text",
+   "text": "1d4 Telluric Goat† (LV 4) — eating the crag's iron veins",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!mNyydfB5CBhpMFbl.euDhVvdiKeEY8EUJ"
+  },
+  {
+   "_id": "h6HRnijoZaoG3d13",
+   "type": "text",
+   "text": "⚠ 1 Assassin (LV 8) — the Lair's tenant, at home; flee or parley",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!mNyydfB5CBhpMFbl.h6HRnijoZaoG3d13"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!mNyydfB5CBhpMFbl"
+}

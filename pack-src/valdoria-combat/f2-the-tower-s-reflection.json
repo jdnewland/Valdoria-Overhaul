@@ -1,0 +1,117 @@
+{
+ "_id": "tcxcugbnII85MayF",
+ "name": "Combat — F2 The Tower's Reflection",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F2 The Tower's Reflection (23,11) · Coast / Sakeen Sea. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "W8322xuzvYx37Zwp",
+   "type": "text",
+   "text": "1d4 Shark (LV 3) — circling blood in the water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!tcxcugbnII85MayF.W8322xuzvYx37Zwp"
+  },
+  {
+   "_id": "UMw4KJ2gZDZs00aJ",
+   "type": "text",
+   "text": "2d4 Merfolk (LV 2) — a territorial shoal-guard",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!tcxcugbnII85MayF.UMw4KJ2gZDZs00aJ"
+  },
+  {
+   "_id": "BPwXCy0Xa6ei8C1A",
+   "type": "text",
+   "text": "2d6 Deep One (LV 2) — rising from the deep water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!tcxcugbnII85MayF.BPwXCy0Xa6ei8C1A"
+  },
+  {
+   "_id": "BavWwZxZ6ZbiIDUp",
+   "type": "text",
+   "text": "2d6 Pirate (LV 1) — a boarding party",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!tcxcugbnII85MayF.BavWwZxZ6ZbiIDUp"
+  },
+  {
+   "_id": "sNGeGUdn0vkD4qA8",
+   "type": "text",
+   "text": "1d4 Deep One (LV 2) — worshipping at the reflected windows",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!tcxcugbnII85MayF.sNGeGUdn0vkD4qA8"
+  },
+  {
+   "_id": "jlLdiFzLOQ0yJhsC",
+   "type": "text",
+   "text": "⚠ 1 Hag, Sea (LV 6) — she keeps the reflection's door",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!tcxcugbnII85MayF.jlLdiFzLOQ0yJhsC"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!tcxcugbnII85MayF"
+}

@@ -1,0 +1,117 @@
+{
+ "_id": "KJDKyHPCm9875A8Q",
+ "name": "Combat — J08 The Blossom Meadows",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for J08 The Blossom Meadows (18,12) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "o5ULCINwxMv0uEq2",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!KJDKyHPCm9875A8Q.o5ULCINwxMv0uEq2"
+  },
+  {
+   "_id": "2a2OgSAKK1UdFZzd",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!KJDKyHPCm9875A8Q.2a2OgSAKK1UdFZzd"
+  },
+  {
+   "_id": "0xt8zvasftNxQaIF",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!KJDKyHPCm9875A8Q.0xt8zvasftNxQaIF"
+  },
+  {
+   "_id": "QIxv5WjWqhGkGtU0",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!KJDKyHPCm9875A8Q.QIxv5WjWqhGkGtU0"
+  },
+  {
+   "_id": "uo3DhqHurbhwceF3",
+   "type": "text",
+   "text": "2d6 Fairy† (LV 3) — dancing at the Golden Gazebo",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!KJDKyHPCm9875A8Q.uo3DhqHurbhwceF3"
+  },
+  {
+   "_id": "QAGrsgZpMLEK5Fd1",
+   "type": "text",
+   "text": "1d4 Wolf, Dire (LV 4) — the meadow's old wolves",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!KJDKyHPCm9875A8Q.QAGrsgZpMLEK5Fd1"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!KJDKyHPCm9875A8Q"
+}

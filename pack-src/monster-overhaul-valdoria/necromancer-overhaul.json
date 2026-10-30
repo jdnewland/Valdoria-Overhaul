@@ -1,0 +1,150 @@
+{
+ "_id": "2opOv7cltofNFh7p",
+ "name": "Necromancer (Overhaul)",
+ "type": "NPC",
+ "img": "modules/valdoria-overhaul/art/necromancer.png",
+ "system": {
+  "level": {
+   "value": 7
+  },
+  "attributes": {
+   "ac": {
+    "value": 12,
+    "base": 12
+   },
+   "hp": {
+    "value": 32,
+    "max": 32,
+    "base": 32
+   }
+  },
+  "abilities": {
+   "str": {
+    "mod": 0,
+    "base": 10
+   },
+   "dex": {
+    "mod": 1,
+    "base": 12
+   },
+   "con": {
+    "mod": 1,
+    "base": 12
+   },
+   "int": {
+    "mod": 3,
+    "base": 16
+   },
+   "wis": {
+    "mod": 2,
+    "base": 14
+   },
+   "cha": {
+    "mod": 1,
+    "base": 12
+   }
+  },
+  "notes": "Ragged robes, a broad hat, unhealthy skin. Unsettling whispers and croaked commands. Wants the secrets of life and death.\n\nConverted from The Monster Overhaul (Dark and Malign, p. 163). LV = HD, HP as printed; Shadowdark conversion by the Valdoria importer."
+ },
+ "prototypeToken": {
+  "name": "Necromancer (Overhaul)",
+  "texture": {
+   "src": "modules/valdoria-overhaul/art/necromancer.png"
+  },
+  "actorLink": false,
+  "bar1": {
+   "attribute": "attributes.hp"
+  }
+ },
+ "items": [
+  {
+   "_id": "4Zt40Ksj8YgNI3sC",
+   "name": "Dagger +8 (1d6)",
+   "type": "NPC Attack",
+   "img": "icons/svg/sword.svg",
+   "system": {
+    "description": "",
+    "source": "",
+    "attack": "",
+    "attackType": "",
+    "bonuses": {},
+    "damage": "1d6",
+    "ranges": "near"
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!2opOv7cltofNFh7p.4Zt40Ksj8YgNI3sC"
+  },
+  {
+   "_id": "MLRXgdB0iYlvJUCO",
+   "name": "Raise Lesser Undead",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "3 times per day: raises up to 3 reasonably intact corpses as zombies, or up to 6 decayed corpses as skeletons, under the necromancer's control.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!2opOv7cltofNFh7p.MLRXgdB0iYlvJUCO"
+  },
+  {
+   "_id": "o17XDi7jYze1ih8i",
+   "name": "Finger of Death",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "2 times per day, 50 ft range: a target creature must Save or die.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!2opOv7cltofNFh7p.o17XDi7jYze1ih8i"
+  },
+  {
+   "_id": "8XsjMD2emy5FucLp",
+   "name": "Interrogate Spirit",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "After a 5-minute ritual, calls up the spirit of a dead intelligent creature whose true name it knows; the spirit answers up to 3 questions truthfully, then vanishes.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!2opOv7cltofNFh7p.8XsjMD2emy5FucLp"
+  },
+  {
+   "_id": "0Qh3m30jqXaNfgoE",
+   "name": "Mind-Shielded",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "Immune to mind-altering effects. Steeped in unwholesome secrets; callous and morbid, but not cruel.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!2opOv7cltofNFh7p.0Qh3m30jqXaNfgoE"
+  }
+ ],
+ "effects": [],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!actors!2opOv7cltofNFh7p"
+}

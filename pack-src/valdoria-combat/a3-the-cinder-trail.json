@@ -1,0 +1,117 @@
+{
+ "_id": "AGauOwV6UfRHfLNt",
+ "name": "Combat — A3 The Cinder Trail",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for A3 The Cinder Trail (14,13) · Woodland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "OV4Aj2APfPEASJnI",
+   "type": "text",
+   "text": "1 Spider, Giant (LV 3) — webs across the path",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!AGauOwV6UfRHfLNt.OV4Aj2APfPEASJnI"
+  },
+  {
+   "_id": "Bk9FoXD80b4h98Jl",
+   "type": "text",
+   "text": "2d6 Boar (Overhaul)† (LV 3) — a sounder defending its piglets",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!AGauOwV6UfRHfLNt.Bk9FoXD80b4h98Jl"
+  },
+  {
+   "_id": "7Jva3EPbGH9ZF1RE",
+   "type": "text",
+   "text": "1 Ettercap (LV 3) — herding its spiders",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!AGauOwV6UfRHfLNt.7Jva3EPbGH9ZF1RE"
+  },
+  {
+   "_id": "BM8shdf32XdKnDXw",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — shadowing the trail",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!AGauOwV6UfRHfLNt.BM8shdf32XdKnDXw"
+  },
+  {
+   "_id": "CAwdnBQg4y74vYx1",
+   "type": "text",
+   "text": "2d4 Bandit (LV 1) — cinder-road toll-takers",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!AGauOwV6UfRHfLNt.CAwdnBQg4y74vYx1"
+  },
+  {
+   "_id": "5ZDg0U3Q5tqO8uqP",
+   "type": "text",
+   "text": "1 Panther (Overhaul)† (LV 3) — hunting the pilgrim road",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!AGauOwV6UfRHfLNt.5ZDg0U3Q5tqO8uqP"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!AGauOwV6UfRHfLNt"
+}

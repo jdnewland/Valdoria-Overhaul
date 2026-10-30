@@ -1,0 +1,117 @@
+{
+ "_id": "A1TCndRYCznCcDmf",
+ "name": "Combat — E15 The Edgewood",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for E15 The Edgewood (16,17) · Woodland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "RjBHKIzGRbn5i8fr",
+   "type": "text",
+   "text": "1 Spider, Giant (LV 3) — webs across the path",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!A1TCndRYCznCcDmf.RjBHKIzGRbn5i8fr"
+  },
+  {
+   "_id": "Uv1q7RQHZUa2Ww56",
+   "type": "text",
+   "text": "2d6 Boar (Overhaul)† (LV 3) — a sounder defending its piglets",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!A1TCndRYCznCcDmf.Uv1q7RQHZUa2Ww56"
+  },
+  {
+   "_id": "pXqE6VEvJDBW2sbi",
+   "type": "text",
+   "text": "1 Ettercap (LV 3) — herding its spiders",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!A1TCndRYCznCcDmf.pXqE6VEvJDBW2sbi"
+  },
+  {
+   "_id": "E39kB0JJVJE5pdVG",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — shadowing the trail",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!A1TCndRYCznCcDmf.E39kB0JJVJE5pdVG"
+  },
+  {
+   "_id": "SsZ6koSPbALlIfhA",
+   "type": "text",
+   "text": "1d4 Fairy† (LV 3) — the market's doorkeepers",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!A1TCndRYCznCcDmf.SsZ6koSPbALlIfhA"
+  },
+  {
+   "_id": "5MVzsiTR0uxX3Fru",
+   "type": "text",
+   "text": "⚠ 1 Ghost (LV 6) — a traveler who left in a different season",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!A1TCndRYCznCcDmf.5MVzsiTR0uxX3Fru"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!A1TCndRYCznCcDmf"
+}

@@ -1,0 +1,117 @@
+{
+ "_id": "yGDSSKbGhrxTAG0Z",
+ "name": "Combat — E1 Hacot",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for E1 Hacot (20,14) · Settlement / Road. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "26aAs56x9LNY4cIg",
+   "type": "text",
+   "text": "1d4 Thug (LV 3) — hired muscle",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!yGDSSKbGhrxTAG0Z.26aAs56x9LNY4cIg"
+  },
+  {
+   "_id": "pXTc5Hzf8msnVFtF",
+   "type": "text",
+   "text": "2d4 Bandit (LV 1) — road agents and alley toughs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!yGDSSKbGhrxTAG0Z.pXTc5Hzf8msnVFtF"
+  },
+  {
+   "_id": "hjmCV7sXjpLY7tz3",
+   "type": "text",
+   "text": "1d6 Rat, Giant (LV 0) — cellar vermin, bold as cats",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!yGDSSKbGhrxTAG0Z.hjmCV7sXjpLY7tz3"
+  },
+  {
+   "_id": "kn07YH3vvsMHSErv",
+   "type": "text",
+   "text": "2d4 Guard (LV 1) — a patrol that wants names; combat if resisted",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!yGDSSKbGhrxTAG0Z.kn07YH3vvsMHSErv"
+  },
+  {
+   "_id": "LzG1V5cO0DIxcz7o",
+   "type": "text",
+   "text": "2d4 Guard (LV 1) — Ministry overseers at the wells",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!yGDSSKbGhrxTAG0Z.LzG1V5cO0DIxcz7o"
+  },
+  {
+   "_id": "vdcobA2Q7jhpsCxm",
+   "type": "text",
+   "text": "⚠ 1 Priest (LV 5) — one of the Seven's own priesthood",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!yGDSSKbGhrxTAG0Z.vdcobA2Q7jhpsCxm"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!yGDSSKbGhrxTAG0Z"
+}

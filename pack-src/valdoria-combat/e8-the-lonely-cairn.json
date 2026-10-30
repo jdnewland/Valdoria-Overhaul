@@ -1,0 +1,117 @@
+{
+ "_id": "Vqr4BaI9TWCd1ZvL",
+ "name": "Combat — E8 The Lonely Cairn",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for E8 The Lonely Cairn (14,16) · Hills / Mountains. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "WVFREHFOE4Pmvhmr",
+   "type": "text",
+   "text": "1 Harpy (LV 3) — singing from the crags",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Vqr4BaI9TWCd1ZvL.WVFREHFOE4Pmvhmr"
+  },
+  {
+   "_id": "kR3b4oWsp9pIRqnH",
+   "type": "text",
+   "text": "1 Wyvern (LV 3) — nesting on the ledges",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Vqr4BaI9TWCd1ZvL.kR3b4oWsp9pIRqnH"
+  },
+  {
+   "_id": "B9nIxGGmumwDHnEN",
+   "type": "text",
+   "text": "2d6 Ape (LV 2) — a troop defending the high pass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Vqr4BaI9TWCd1ZvL.B9nIxGGmumwDHnEN"
+  },
+  {
+   "_id": "K6lZLTqTNkgj9VMI",
+   "type": "text",
+   "text": "2d4 Goblin (LV 1) — Greyspine raiders on the high paths",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Vqr4BaI9TWCd1ZvL.K6lZLTqTNkgj9VMI"
+  },
+  {
+   "_id": "kLCpQhLGawuXSGDN",
+   "type": "text",
+   "text": "1d6 Skeleton (LV 2) — the shepherd king's court",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Vqr4BaI9TWCd1ZvL.kLCpQhLGawuXSGDN"
+  },
+  {
+   "_id": "diUJeXN9UjTB739v",
+   "type": "text",
+   "text": "1 Wight (LV 3) — the shepherd king; he remembers being obeyed",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Vqr4BaI9TWCd1ZvL.diUJeXN9UjTB739v"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!Vqr4BaI9TWCd1ZvL"
+}

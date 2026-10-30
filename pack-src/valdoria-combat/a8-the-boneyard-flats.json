@@ -1,0 +1,117 @@
+{
+ "_id": "6TNvVFGIsy3XKO9T",
+ "name": "Combat — A8 The Boneyard Flats",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for A8 The Boneyard Flats (14,14) · Desert / Cinder Wastes. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "msXgXKqAsBaEsRmY",
+   "type": "text",
+   "text": "1 Ankheg (LV 3) — bursting from the ash drift",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!6TNvVFGIsy3XKO9T.msXgXKqAsBaEsRmY"
+  },
+  {
+   "_id": "ajpqixDFwEJyWc4b",
+   "type": "text",
+   "text": "2d4 Baboon† (LV 1) — a raiding troop; grabs loose gear and runs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!6TNvVFGIsy3XKO9T.ajpqixDFwEJyWc4b"
+  },
+  {
+   "_id": "vzuTa9BpNrUb53ZE",
+   "type": "text",
+   "text": "2d6 Scorpion (LV 0) — under rocks and cactus roots",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!6TNvVFGIsy3XKO9T.vzuTa9BpNrUb53ZE"
+  },
+  {
+   "_id": "PVFiexhF2wZoggkV",
+   "type": "text",
+   "text": "1d6 Vulture (LV 1) — circling something dead; bold if the party is bleeding",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!6TNvVFGIsy3XKO9T.PVFiexhF2wZoggkV"
+  },
+  {
+   "_id": "POIPfiMtwg0TSIRX",
+   "type": "text",
+   "text": "1d6 Vulture (LV 1) — the boneyard's flock, defending a carcass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!6TNvVFGIsy3XKO9T.POIPfiMtwg0TSIRX"
+  },
+  {
+   "_id": "7DZXnih3BTgsVjPa",
+   "type": "text",
+   "text": "2d6 Zombie (LV 2) — the draft teams, still hauling",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!6TNvVFGIsy3XKO9T.7DZXnih3BTgsVjPa"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!6TNvVFGIsy3XKO9T"
+}

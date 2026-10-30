@@ -1,0 +1,117 @@
+{
+ "_id": "MbFqwcNJ4NW87XJO",
+ "name": "Combat — J10 The Windowless Tower",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for J10 The Windowless Tower (21,12) · Woodland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "W9PFEe7SXaAb7etL",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — shadowing the trail",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!MbFqwcNJ4NW87XJO.W9PFEe7SXaAb7etL"
+  },
+  {
+   "_id": "5GgrUp9bT9CYpd6B",
+   "type": "text",
+   "text": "1 Spider, Giant (LV 3) — webs across the path",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!MbFqwcNJ4NW87XJO.5GgrUp9bT9CYpd6B"
+  },
+  {
+   "_id": "0duonlS61TXnTPDG",
+   "type": "text",
+   "text": "2d6 Boar (Overhaul)† (LV 3) — a sounder defending its piglets",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!MbFqwcNJ4NW87XJO.0duonlS61TXnTPDG"
+  },
+  {
+   "_id": "SXkMSDgLGL86VeFu",
+   "type": "text",
+   "text": "1 Ettercap (LV 3) — herding its spiders",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!MbFqwcNJ4NW87XJO.SXkMSDgLGL86VeFu"
+  },
+  {
+   "_id": "uhQGU4TK1DM5BMHm",
+   "type": "text",
+   "text": "2d4 Skeleton (LV 2) — the tower's old garrison",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!MbFqwcNJ4NW87XJO.uhQGU4TK1DM5BMHm"
+  },
+  {
+   "_id": "BUAYxs3fBHA5r9Bm",
+   "type": "text",
+   "text": "1d4 Shadow (LV 3) — servants of the tower's dark",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!MbFqwcNJ4NW87XJO.BUAYxs3fBHA5r9Bm"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!MbFqwcNJ4NW87XJO"
+}

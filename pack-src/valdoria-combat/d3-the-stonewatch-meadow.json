@@ -1,0 +1,117 @@
+{
+ "_id": "2cjXDvmtVQi6Ywlo",
+ "name": "Combat — D3 The Stonewatch Meadow",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for D3 The Stonewatch Meadow (16,13) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "9UNXYbzd2SifE9hp",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!2cjXDvmtVQi6Ywlo.9UNXYbzd2SifE9hp"
+  },
+  {
+   "_id": "NxkbfYcKSF0ONpLz",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!2cjXDvmtVQi6Ywlo.NxkbfYcKSF0ONpLz"
+  },
+  {
+   "_id": "JzZj3NP3m3XLRDbs",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!2cjXDvmtVQi6Ywlo.JzZj3NP3m3XLRDbs"
+  },
+  {
+   "_id": "ov4HeqCXzSEJx3dv",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!2cjXDvmtVQi6Ywlo.ov4HeqCXzSEJx3dv"
+  },
+  {
+   "_id": "W7HTTyppapxe8spP",
+   "type": "text",
+   "text": "1d4 Wolf (LV 2) — circling the spiral grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!2cjXDvmtVQi6Ywlo.W7HTTyppapxe8spP"
+  },
+  {
+   "_id": "IskeaA4CzxuNXoKN",
+   "type": "text",
+   "text": "1 Shadow (LV 3) — standing where a stone's shadow should be",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!2cjXDvmtVQi6Ywlo.IskeaA4CzxuNXoKN"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!2cjXDvmtVQi6Ywlo"
+}

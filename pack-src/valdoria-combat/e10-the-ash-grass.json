@@ -1,0 +1,117 @@
+{
+ "_id": "OmKHB0x2nuMUkFoQ",
+ "name": "Combat — E10 The Ash Grass",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for E10 The Ash Grass (17,16) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "XEtOWMMEdPFZEcXQ",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!OmKHB0x2nuMUkFoQ.XEtOWMMEdPFZEcXQ"
+  },
+  {
+   "_id": "c8oOvnbqyQqIXnf0",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!OmKHB0x2nuMUkFoQ.c8oOvnbqyQqIXnf0"
+  },
+  {
+   "_id": "DATRXfLR99espwHr",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!OmKHB0x2nuMUkFoQ.DATRXfLR99espwHr"
+  },
+  {
+   "_id": "fkUkQ3JacqBVemtJ",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!OmKHB0x2nuMUkFoQ.fkUkQ3JacqBVemtJ"
+  },
+  {
+   "_id": "RN3cm36AWH601UXR",
+   "type": "text",
+   "text": "2d6 Skeleton (LV 2) — the last battle, still standing to",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!OmKHB0x2nuMUkFoQ.RN3cm36AWH601UXR"
+  },
+  {
+   "_id": "EBDc5TBmg8IAMTmk",
+   "type": "text",
+   "text": "1 Wight (LV 3) — an imperial officer, awaiting orders",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!OmKHB0x2nuMUkFoQ.EBDc5TBmg8IAMTmk"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!OmKHB0x2nuMUkFoQ"
+}

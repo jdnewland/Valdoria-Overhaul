@@ -1,0 +1,117 @@
+{
+ "_id": "4Tktm2K6Hhk97oNd",
+ "name": "Combat — C7 The Penitent's Rest",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for C7 The Penitent's Rest (15,13) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "Bjg4FllITsKEfUbg",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!4Tktm2K6Hhk97oNd.Bjg4FllITsKEfUbg"
+  },
+  {
+   "_id": "oit1sPS1ywGvibxh",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!4Tktm2K6Hhk97oNd.oit1sPS1ywGvibxh"
+  },
+  {
+   "_id": "RlP79lwZdk1PFPZt",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!4Tktm2K6Hhk97oNd.RlP79lwZdk1PFPZt"
+  },
+  {
+   "_id": "ztKE6U6gRXrBSJVg",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!4Tktm2K6Hhk97oNd.ztKE6U6gRXrBSJVg"
+  },
+  {
+   "_id": "CZ6zj8O4fTYwdHok",
+   "type": "text",
+   "text": "2d4 Acolyte (LV 1) — shrine-wardens; combat only if the shrine is threatened",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!4Tktm2K6Hhk97oNd.CZ6zj8O4fTYwdHok"
+  },
+  {
+   "_id": "iQp4jFzjZ6lM6Ll6",
+   "type": "text",
+   "text": "1d4 Bandit (LV 1) — robbing penitents at the cistern",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!4Tktm2K6Hhk97oNd.iQp4jFzjZ6lM6Ll6"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!4Tktm2K6Hhk97oNd"
+}

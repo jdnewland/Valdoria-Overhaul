@@ -1,0 +1,117 @@
+{
+ "_id": "njGFvUhyfmuj9aAB",
+ "name": "Combat — B8 The Black Stair",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for B8 The Black Stair (23,12) · Hills / Mountains. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "IknYtkEwT7mlgH1T",
+   "type": "text",
+   "text": "2d4 Goblin (LV 1) — Greyspine raiders on the high paths",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!njGFvUhyfmuj9aAB.IknYtkEwT7mlgH1T"
+  },
+  {
+   "_id": "th0hI3LS5rBM2OXf",
+   "type": "text",
+   "text": "1 Harpy (LV 3) — singing from the crags",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!njGFvUhyfmuj9aAB.th0hI3LS5rBM2OXf"
+  },
+  {
+   "_id": "z9d8Lgjb4vIIqpvu",
+   "type": "text",
+   "text": "1 Wyvern (LV 3) — nesting on the ledges",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!njGFvUhyfmuj9aAB.z9d8Lgjb4vIIqpvu"
+  },
+  {
+   "_id": "932xzwKeOihWHo44",
+   "type": "text",
+   "text": "2d6 Ape (LV 2) — a troop defending the high pass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!njGFvUhyfmuj9aAB.932xzwKeOihWHo44"
+  },
+  {
+   "_id": "L60IrSUpqxdoA0Rg",
+   "type": "text",
+   "text": "1d6 Skeleton (LV 2) — pilgrims who never finished the descent",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!njGFvUhyfmuj9aAB.L60IrSUpqxdoA0Rg"
+  },
+  {
+   "_id": "L9qOMeRJe2q4NpAw",
+   "type": "text",
+   "text": "⚠ 1 Ghost (LV 6) — counting the nine hundred steps, aloud",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!njGFvUhyfmuj9aAB.L9qOMeRJe2q4NpAw"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!njGFvUhyfmuj9aAB"
+}

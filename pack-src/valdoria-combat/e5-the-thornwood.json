@@ -1,0 +1,117 @@
+{
+ "_id": "vpiuJkl1sYWlNv3s",
+ "name": "Combat — E5 The Thornwood",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for E5 The Thornwood (14,15) · Woodland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "28m7FLC5LSNYMei6",
+   "type": "text",
+   "text": "2d6 Boar (Overhaul)† (LV 3) — a sounder defending its piglets",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!vpiuJkl1sYWlNv3s.28m7FLC5LSNYMei6"
+  },
+  {
+   "_id": "TdGgbYrszPli9A8T",
+   "type": "text",
+   "text": "1 Ettercap (LV 3) — herding its spiders",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!vpiuJkl1sYWlNv3s.TdGgbYrszPli9A8T"
+  },
+  {
+   "_id": "9xLfLB0zM4ZsAW31",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — shadowing the trail",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!vpiuJkl1sYWlNv3s.9xLfLB0zM4ZsAW31"
+  },
+  {
+   "_id": "hty4NlpAI9LqxMb2",
+   "type": "text",
+   "text": "1 Spider, Giant (LV 3) — webs across the path",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!vpiuJkl1sYWlNv3s.hty4NlpAI9LqxMb2"
+  },
+  {
+   "_id": "VdiUnawHz8b3Il2V",
+   "type": "text",
+   "text": "1d4 Panther (Overhaul)† (LV 3) — thorn-cats, hunting from the green roof",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!vpiuJkl1sYWlNv3s.VdiUnawHz8b3Il2V"
+  },
+  {
+   "_id": "Yek5l3gB8BfimyYH",
+   "type": "text",
+   "text": "⚠ 1 Owlbear (LV 6) — the teeth of the Thornwood",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!vpiuJkl1sYWlNv3s.Yek5l3gB8BfimyYH"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!vpiuJkl1sYWlNv3s"
+}

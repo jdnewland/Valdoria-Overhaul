@@ -1,0 +1,117 @@
+{
+ "_id": "UM4JSrvYF86gmF0c",
+ "name": "Combat — F13 The Harbor Mouth",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F13 The Harbor Mouth (21,15) · Coast / Sakeen Sea. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "sv6LoPkk4ZBNWEJ0",
+   "type": "text",
+   "text": "2d6 Deep One (LV 2) — rising from the deep water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!UM4JSrvYF86gmF0c.sv6LoPkk4ZBNWEJ0"
+  },
+  {
+   "_id": "tbBysA6Ubzb6BOGv",
+   "type": "text",
+   "text": "2d6 Pirate (LV 1) — a boarding party",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!UM4JSrvYF86gmF0c.tbBysA6Ubzb6BOGv"
+  },
+  {
+   "_id": "4wjFGC3hKyVytKMU",
+   "type": "text",
+   "text": "1d4 Shark (LV 3) — circling blood in the water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!UM4JSrvYF86gmF0c.4wjFGC3hKyVytKMU"
+  },
+  {
+   "_id": "ERyn1gaovmP1j4e6",
+   "type": "text",
+   "text": "2d4 Merfolk (LV 2) — a territorial shoal-guard",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!UM4JSrvYF86gmF0c.ERyn1gaovmP1j4e6"
+  },
+  {
+   "_id": "PfC12hlp3XDbn7pY",
+   "type": "text",
+   "text": "2d4 Guard (LV 1) — a patrol boat's boarding party",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!UM4JSrvYF86gmF0c.PfC12hlp3XDbn7pY"
+  },
+  {
+   "_id": "OItCQ0AZh6HMxZd1",
+   "type": "text",
+   "text": "1d4 Shark (LV 3) — toll-keepers of a redder kind",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!UM4JSrvYF86gmF0c.OItCQ0AZh6HMxZd1"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!UM4JSrvYF86gmF0c"
+}

@@ -1,0 +1,118 @@
+{
+ "_id": "i6h2h9ZOS8J0LFot",
+ "name": "Giant Crab (Overhaul)",
+ "type": "NPC",
+ "img": "modules/valdoria-overhaul/art/giant-crab.png",
+ "system": {
+  "level": {
+   "value": 5
+  },
+  "attributes": {
+   "ac": {
+    "value": 14,
+    "base": 14
+   },
+   "hp": {
+    "value": 23,
+    "max": 23,
+    "base": 23
+   }
+  },
+  "abilities": {
+   "str": {
+    "mod": 3,
+    "base": 16
+   },
+   "dex": {
+    "mod": 0,
+    "base": 10
+   },
+   "con": {
+    "mod": 2,
+    "base": 14
+   },
+   "int": {
+    "mod": -3,
+    "base": 4
+   },
+   "wis": {
+    "mod": 0,
+    "base": 10
+   },
+   "cha": {
+    "mod": -3,
+    "base": 4
+   }
+  },
+  "notes": "A flat crustacean the size of a wagon. Silent, with the occasional click. Wants meat.\n\nConverted from The Monster Overhaul (Stormy Seas, p. 271). LV = HD, HP as printed; Shadowdark conversion by the Valdoria importer."
+ },
+ "prototypeToken": {
+  "name": "Giant Crab (Overhaul)",
+  "texture": {
+   "src": "modules/valdoria-overhaul/art/giant-crab.png"
+  },
+  "actorLink": false,
+  "bar1": {
+   "attribute": "attributes.hp"
+  }
+ },
+ "items": [
+  {
+   "_id": "oDMu5vXgW05b4ufL",
+   "name": "Claw +7 (1d8) ×2",
+   "type": "NPC Attack",
+   "img": "icons/svg/sword.svg",
+   "system": {
+    "description": "",
+    "source": "",
+    "attack": "",
+    "attackType": "",
+    "bonuses": {},
+    "damage": "1d8",
+    "ranges": "near"
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!i6h2h9ZOS8J0LFot.oDMu5vXgW05b4ufL"
+  },
+  {
+   "_id": "6GIIQoXcluRf2dnL",
+   "name": "Sea-Washed Hoard",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "A giant crab's lair contains about 30 gp in sea-washed coins and gems.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!i6h2h9ZOS8J0LFot.6GIIQoXcluRf2dnL"
+  },
+  {
+   "_id": "DjlRw023YZYwmql0",
+   "name": "Wagon-Sized",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "A flat crustacean the size of a wagon: two snipping limbs, black eyes, churning mouthparts. Cautious, irritable, and hungry for meat.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!i6h2h9ZOS8J0LFot.DjlRw023YZYwmql0"
+  }
+ ],
+ "effects": [],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!actors!i6h2h9ZOS8J0LFot"
+}

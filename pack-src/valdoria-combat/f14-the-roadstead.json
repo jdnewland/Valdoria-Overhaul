@@ -1,0 +1,117 @@
+{
+ "_id": "tKfhVkM3i1f68kbo",
+ "name": "Combat — F14 The Roadstead",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F14 The Roadstead (24,15) · Coast / Sakeen Sea. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "O2EaPsSOFBNTAb9i",
+   "type": "text",
+   "text": "2d4 Merfolk (LV 2) — a territorial shoal-guard",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!tKfhVkM3i1f68kbo.O2EaPsSOFBNTAb9i"
+  },
+  {
+   "_id": "PKsQ8SO485RZ0YhK",
+   "type": "text",
+   "text": "2d6 Deep One (LV 2) — rising from the deep water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!tKfhVkM3i1f68kbo.PKsQ8SO485RZ0YhK"
+  },
+  {
+   "_id": "CjlqSuACyIJqWdyU",
+   "type": "text",
+   "text": "2d6 Pirate (LV 1) — a boarding party",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!tKfhVkM3i1f68kbo.CjlqSuACyIJqWdyU"
+  },
+  {
+   "_id": "V4gJv0eHZlg8bf5Z",
+   "type": "text",
+   "text": "1d4 Shark (LV 3) — circling blood in the water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!tKfhVkM3i1f68kbo.V4gJv0eHZlg8bf5Z"
+  },
+  {
+   "_id": "g6AUZQ4iTq3VPb27",
+   "type": "text",
+   "text": "2d4 Pirate (LV 1) — a wanted crew, waiting on courage",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!tKfhVkM3i1f68kbo.g6AUZQ4iTq3VPb27"
+  },
+  {
+   "_id": "Qi3Qv2kwY0w2UymD",
+   "type": "text",
+   "text": "⚠ 1 Octopus, Giant (LV 5) — the anchorage's landlord",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!tKfhVkM3i1f68kbo.Qi3Qv2kwY0w2UymD"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!tKfhVkM3i1f68kbo"
+}

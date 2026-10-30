@@ -1,0 +1,117 @@
+{
+ "_id": "vBlQt1pPtrAGvmko",
+ "name": "Combat — E9 The Unused Altar",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for E9 The Unused Altar (15,16) · Mire / Marsh / Bog. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "Ldf4KAmypCrkvZJ3",
+   "type": "text",
+   "text": "2d6 Leech, Giant (LV 2) — in the black water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!vBlQt1pPtrAGvmko.Ldf4KAmypCrkvZJ3"
+  },
+  {
+   "_id": "sDHiO3tKjxZ5LBpH",
+   "type": "text",
+   "text": "1 Violet Fungus (LV 2) — rooted in the path; it doesn't chase, it waits",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!vBlQt1pPtrAGvmko.sDHiO3tKjxZ5LBpH"
+  },
+  {
+   "_id": "UAgBtY0fGC3mf9oV",
+   "type": "text",
+   "text": "2d4 Lizardfolk (LV 2) — a hunting party in the reeds",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!vBlQt1pPtrAGvmko.UAgBtY0fGC3mf9oV"
+  },
+  {
+   "_id": "wFxg1LDfuwDUC9yi",
+   "type": "text",
+   "text": "1d4 Frog, Giant (LV 2) — tongues first, questions never",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!vBlQt1pPtrAGvmko.wFxg1LDfuwDUC9yi"
+  },
+  {
+   "_id": "M5TmsSQrDSFybE26",
+   "type": "text",
+   "text": "1d4 Ghoul (LV 2) — the congregation that stayed",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!vBlQt1pPtrAGvmko.M5TmsSQrDSFybE26"
+  },
+  {
+   "_id": "yNJP5mF804F52Pa6",
+   "type": "text",
+   "text": "⚠ 1 Nightmare Beast† (LV 6) — what the altar was dressed for",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!vBlQt1pPtrAGvmko.yNJP5mF804F52Pa6"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!vBlQt1pPtrAGvmko"
+}

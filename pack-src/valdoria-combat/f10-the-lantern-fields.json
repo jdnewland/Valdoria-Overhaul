@@ -1,0 +1,117 @@
+{
+ "_id": "BTjpVtxgiWhmanFU",
+ "name": "Combat — F10 The Lantern Fields",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F10 The Lantern Fields (24,13) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "Vs8pVzpFY3I7fZFE",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!BTjpVtxgiWhmanFU.Vs8pVzpFY3I7fZFE"
+  },
+  {
+   "_id": "wUJHKiPHD2lQzP4b",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!BTjpVtxgiWhmanFU.wUJHKiPHD2lQzP4b"
+  },
+  {
+   "_id": "wCQnST8VXDUfe9BG",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!BTjpVtxgiWhmanFU.wCQnST8VXDUfe9BG"
+  },
+  {
+   "_id": "RPM0fvjBL0u6h70j",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!BTjpVtxgiWhmanFU.RPM0fvjBL0u6h70j"
+  },
+  {
+   "_id": "2Dib5FbldbiCkL6q",
+   "type": "text",
+   "text": "2d4 Pirate (LV 1) — press-gangers with lanterns of their own",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!BTjpVtxgiWhmanFU.2Dib5FbldbiCkL6q"
+  },
+  {
+   "_id": "tqqgp41gY67WEuYu",
+   "type": "text",
+   "text": "1 Doppelganger (LV 4) — wearing a press-gang captain's face",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!BTjpVtxgiWhmanFU.tqqgp41gY67WEuYu"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!BTjpVtxgiWhmanFU"
+}

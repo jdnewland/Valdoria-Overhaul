@@ -1,0 +1,117 @@
+{
+ "_id": "XJGIHoqQ5q5k4cLn",
+ "name": "Combat — J13 The Staring Stones & The Snail's Ditch",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for J13 The Staring Stones & The Snail's Ditch (17,13) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "R9qtXyIEkIot3pXh",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!XJGIHoqQ5q5k4cLn.R9qtXyIEkIot3pXh"
+  },
+  {
+   "_id": "jQaVtTzKbsfEkapl",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!XJGIHoqQ5q5k4cLn.jQaVtTzKbsfEkapl"
+  },
+  {
+   "_id": "ONN4hQHAj5W2hioB",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!XJGIHoqQ5q5k4cLn.ONN4hQHAj5W2hioB"
+  },
+  {
+   "_id": "F1vC9sJknHUnVDOK",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!XJGIHoqQ5q5k4cLn.F1vC9sJknHUnVDOK"
+  },
+  {
+   "_id": "St5PflKy5kvxNLG3",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — the ditch's other congregation",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!XJGIHoqQ5q5k4cLn.St5PflKy5kvxNLG3"
+  },
+  {
+   "_id": "q1ZlQtjsrBhAavz6",
+   "type": "text",
+   "text": "⚠ 1 Predatory Snail† (LV 7) — a lesser pilgrim of the Dreaming Snail, following its call east",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!XJGIHoqQ5q5k4cLn.q1ZlQtjsrBhAavz6"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!XJGIHoqQ5q5k4cLn"
+}

@@ -1,0 +1,154 @@
+{
+ "_id": "QP6wY5MYcrgkoo3K",
+ "name": "Nightmare Beast",
+ "type": "NPC",
+ "img": "modules/valdoria-overhaul/art/nightmare-beast.png",
+ "system": {
+  "level": {
+   "value": 6
+  },
+  "attributes": {
+   "ac": {
+    "value": 11,
+    "base": 11
+   },
+   "hp": {
+    "value": 27,
+    "max": 27,
+    "base": 27
+   }
+  },
+  "abilities": {
+   "str": {
+    "mod": 3,
+    "base": 16
+   },
+   "dex": {
+    "mod": 1,
+    "base": 12
+   },
+   "con": {
+    "mod": 2,
+    "base": 14
+   },
+   "int": {
+    "mod": 1,
+    "base": 12
+   },
+   "wis": {
+    "mod": 0,
+    "base": 10
+   },
+   "cha": {
+    "mod": 2,
+    "base": 14
+   }
+  },
+  "notes": "Its appearance varies and will not settle. Gibberish. It senses local values and acts in direct, unrelenting opposition. Spawned from fevered dreams and cracks between dimensions.\n\nConverted from The Monster Overhaul (Dark and Malign, p. 165). LV = HD, HP as printed; Shadowdark conversion by the Valdoria importer."
+ },
+ "prototypeToken": {
+  "name": "Nightmare Beast",
+  "texture": {
+   "src": "modules/valdoria-overhaul/art/nightmare-beast.png"
+  },
+  "actorLink": false,
+  "bar1": {
+   "attribute": "attributes.hp"
+  }
+ },
+ "items": [
+  {
+   "_id": "BRNoY0P5BdUNzRbU",
+   "name": "Ravening Claw +8 (1d6) ×2",
+   "type": "NPC Attack",
+   "img": "icons/svg/sword.svg",
+   "system": {
+    "description": "",
+    "source": "",
+    "attack": "",
+    "attackType": "",
+    "bonuses": {},
+    "damage": "1d6",
+    "ranges": "near"
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!QP6wY5MYcrgkoo3K.BRNoY0P5BdUNzRbU"
+  },
+  {
+   "_id": "G7me5IswBNBtQGs3",
+   "name": "Bite +8 (1d8)",
+   "type": "NPC Attack",
+   "img": "icons/svg/sword.svg",
+   "system": {
+    "description": "",
+    "source": "",
+    "attack": "",
+    "attackType": "",
+    "bonuses": {},
+    "damage": "1d8",
+    "ranges": "near"
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!QP6wY5MYcrgkoo3K.G7me5IswBNBtQGs3"
+  },
+  {
+   "_id": "gwYsGKd3VTYhyGyw",
+   "name": "Only Hurt Once",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "A nightmare beast can only be harmed by any given weapon, spell, element, or ability once — the first strike cuts deep, the second glances off hardening skin. All immunities reset at the next sunrise.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!QP6wY5MYcrgkoo3K.gwYsGKd3VTYhyGyw"
+  },
+  {
+   "_id": "oC7FS7IS4Jp231Xy",
+   "name": "Disbelief",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "Anyone who can see or hear the beast but has not been damaged or touched by it can spend a full round disbelieving in it and Save: on a pass the beast takes 3d8 damage; on a fail it targets them next.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!QP6wY5MYcrgkoo3K.oC7FS7IS4Jp231Xy"
+  },
+  {
+   "_id": "PEze9xNA61j2z9Xd",
+   "name": "Shifting Attacks",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "Its attack form changes every round — sludge spray, gallstone cannon, baleful stare, flesh detonation, a wail. Roll on its attack table in The Monster Overhaul.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!QP6wY5MYcrgkoo3K.PEze9xNA61j2z9Xd"
+  }
+ ],
+ "effects": [],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!actors!QP6wY5MYcrgkoo3K"
+}

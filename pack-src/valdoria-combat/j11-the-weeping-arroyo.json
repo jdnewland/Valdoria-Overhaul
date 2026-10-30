@@ -1,0 +1,117 @@
+{
+ "_id": "oGzM9kEWC4l6Ou6T",
+ "name": "Combat — J11 The Weeping Arroyo",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for J11 The Weeping Arroyo (12,13) · Desert / Cinder Wastes. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "rLWwWoAAdxc2TVSf",
+   "type": "text",
+   "text": "1d6 Vulture (LV 1) — circling something dead; bold if the party is bleeding",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!oGzM9kEWC4l6Ou6T.rLWwWoAAdxc2TVSf"
+  },
+  {
+   "_id": "AcfWDJswccrDqmqV",
+   "type": "text",
+   "text": "1 Ankheg (LV 3) — bursting from the ash drift",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!oGzM9kEWC4l6Ou6T.AcfWDJswccrDqmqV"
+  },
+  {
+   "_id": "hsCnAYBa2lItADrL",
+   "type": "text",
+   "text": "2d4 Baboon† (LV 1) — a raiding troop; grabs loose gear and runs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!oGzM9kEWC4l6Ou6T.hsCnAYBa2lItADrL"
+  },
+  {
+   "_id": "5hxC3ZfvakHfA6Xc",
+   "type": "text",
+   "text": "2d6 Scorpion (LV 0) — under rocks and cactus roots",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!oGzM9kEWC4l6Ou6T.5hxC3ZfvakHfA6Xc"
+  },
+  {
+   "_id": "qit8DzWug3qCC4OJ",
+   "type": "text",
+   "text": "2d6 Zombie (LV 2) — tear-silver prospectors, still digging",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!oGzM9kEWC4l6Ou6T.qit8DzWug3qCC4OJ"
+  },
+  {
+   "_id": "Fm0MecrO2BEadaLI",
+   "type": "text",
+   "text": "1d4 Ghoul (LV 2) — drinking at the weeping walls",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!oGzM9kEWC4l6Ou6T.Fm0MecrO2BEadaLI"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!oGzM9kEWC4l6Ou6T"
+}

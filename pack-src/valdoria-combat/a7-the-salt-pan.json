@@ -1,0 +1,117 @@
+{
+ "_id": "iiziDgQDTcuKdl7D",
+ "name": "Combat — A7 The Salt Pan",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for A7 The Salt Pan (15,12) · Desert / Cinder Wastes. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "KCpcrPFD30Xs5c0v",
+   "type": "text",
+   "text": "2d6 Scorpion (LV 0) — under rocks and cactus roots",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!iiziDgQDTcuKdl7D.KCpcrPFD30Xs5c0v"
+  },
+  {
+   "_id": "KVBBZs735jlbtp9B",
+   "type": "text",
+   "text": "1d6 Vulture (LV 1) — circling something dead; bold if the party is bleeding",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!iiziDgQDTcuKdl7D.KVBBZs735jlbtp9B"
+  },
+  {
+   "_id": "Z1R7qQ6PSwmclBMP",
+   "type": "text",
+   "text": "1 Ankheg (LV 3) — bursting from the ash drift",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!iiziDgQDTcuKdl7D.Z1R7qQ6PSwmclBMP"
+  },
+  {
+   "_id": "vrKxYtGNfLb8jG24",
+   "type": "text",
+   "text": "2d4 Baboon† (LV 1) — a raiding troop; grabs loose gear and runs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!iiziDgQDTcuKdl7D.vrKxYtGNfLb8jG24"
+  },
+  {
+   "_id": "fSm54IEARTdWwM2R",
+   "type": "text",
+   "text": "1d4 Ancient Arthropod† (LV 3) — crawling the crust plates",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!iiziDgQDTcuKdl7D.fSm54IEARTdWwM2R"
+  },
+  {
+   "_id": "oAnWFjyk0lu8McBL",
+   "type": "text",
+   "text": "⚠ 1 Mummy (LV 10) — something salt-preserved under the pan; do not dig",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!iiziDgQDTcuKdl7D.oAnWFjyk0lu8McBL"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!iiziDgQDTcuKdl7D"
+}

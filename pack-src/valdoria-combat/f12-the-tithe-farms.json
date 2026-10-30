@@ -1,0 +1,117 @@
+{
+ "_id": "5RgG2ERBtvTVwN2H",
+ "name": "Combat — F12 The Tithe Farms",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F12 The Tithe Farms (22,14) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "OWlJ13jdVf9Vt1ig",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!5RgG2ERBtvTVwN2H.OWlJ13jdVf9Vt1ig"
+  },
+  {
+   "_id": "VzAxoApXDCXb4d1A",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!5RgG2ERBtvTVwN2H.VzAxoApXDCXb4d1A"
+  },
+  {
+   "_id": "V3hBL6R7Ok7r0SFo",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!5RgG2ERBtvTVwN2H.V3hBL6R7Ok7r0SFo"
+  },
+  {
+   "_id": "KS3dIOKb0EU6Luyb",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!5RgG2ERBtvTVwN2H.KS3dIOKb0EU6Luyb"
+  },
+  {
+   "_id": "88YUtp0m9M0TZjCd",
+   "type": "text",
+   "text": "2d4 Peasant (LV 1) — tenant levies with grain forks; combat if the tithe is pressed",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!5RgG2ERBtvTVwN2H.88YUtp0m9M0TZjCd"
+  },
+  {
+   "_id": "mrbDLjjV6piLR7m5",
+   "type": "text",
+   "text": "1d4 Thug (LV 3) — the Bishop's tithe-enforcers",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!5RgG2ERBtvTVwN2H.mrbDLjjV6piLR7m5"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!5RgG2ERBtvTVwN2H"
+}

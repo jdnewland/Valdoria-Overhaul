@@ -1,0 +1,117 @@
+{
+ "_id": "9xoOhr49IL4Qx1DN",
+ "name": "Combat — A9 The Red Reach",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for A9 The Red Reach (16,15) · Desert / Cinder Wastes. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "9VhYiwS3ZsSbGMXD",
+   "type": "text",
+   "text": "2d4 Baboon† (LV 1) — a raiding troop; grabs loose gear and runs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!9xoOhr49IL4Qx1DN.9VhYiwS3ZsSbGMXD"
+  },
+  {
+   "_id": "Udl2RZurA5vukzif",
+   "type": "text",
+   "text": "2d6 Scorpion (LV 0) — under rocks and cactus roots",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!9xoOhr49IL4Qx1DN.Udl2RZurA5vukzif"
+  },
+  {
+   "_id": "D54iSpfQXzXbZWnJ",
+   "type": "text",
+   "text": "1d6 Vulture (LV 1) — circling something dead; bold if the party is bleeding",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!9xoOhr49IL4Qx1DN.D54iSpfQXzXbZWnJ"
+  },
+  {
+   "_id": "mr0ZgdZ8Nyw4C20e",
+   "type": "text",
+   "text": "1 Ankheg (LV 3) — bursting from the ash drift",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!9xoOhr49IL4Qx1DN.mr0ZgdZ8Nyw4C20e"
+  },
+  {
+   "_id": "YW3disk9wW3b6ff1",
+   "type": "text",
+   "text": "2d4 Orc (LV 1) — a warband using the Reach as a banner",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!9xoOhr49IL4Qx1DN.YW3disk9wW3b6ff1"
+  },
+  {
+   "_id": "Lv9q4ZH795ZjSYCJ",
+   "type": "text",
+   "text": "1 Wyvern (LV 3) — nesting in the red stone",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!9xoOhr49IL4Qx1DN.Lv9q4ZH795ZjSYCJ"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!9xoOhr49IL4Qx1DN"
+}

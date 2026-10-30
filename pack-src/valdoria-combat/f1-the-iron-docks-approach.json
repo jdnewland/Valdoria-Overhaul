@@ -1,0 +1,117 @@
+{
+ "_id": "j3ychcK84pSX81fD",
+ "name": "Combat — F1 The Iron Docks Approach",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F1 The Iron Docks Approach (24,14) · Coast / Sakeen Sea. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "B2VoklPiH3xMvgGx",
+   "type": "text",
+   "text": "2d4 Merfolk (LV 2) — a territorial shoal-guard",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!j3ychcK84pSX81fD.B2VoklPiH3xMvgGx"
+  },
+  {
+   "_id": "YC8775TMZ8BGxFz8",
+   "type": "text",
+   "text": "2d6 Deep One (LV 2) — rising from the deep water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!j3ychcK84pSX81fD.YC8775TMZ8BGxFz8"
+  },
+  {
+   "_id": "L6eBsQLgH9iwQDdk",
+   "type": "text",
+   "text": "2d6 Pirate (LV 1) — a boarding party",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!j3ychcK84pSX81fD.L6eBsQLgH9iwQDdk"
+  },
+  {
+   "_id": "Gq74FyWQTn6kXdkx",
+   "type": "text",
+   "text": "1d4 Shark (LV 3) — circling blood in the water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!j3ychcK84pSX81fD.Gq74FyWQTn6kXdkx"
+  },
+  {
+   "_id": "5khHUoT3eRvPptyQ",
+   "type": "text",
+   "text": "2d4 Pirate (LV 1) — smugglers caught mid-transfer",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!j3ychcK84pSX81fD.5khHUoT3eRvPptyQ"
+  },
+  {
+   "_id": "ZW27Mk4P0CSZRbkW",
+   "type": "text",
+   "text": "⚠ 1 Octopus, Giant (LV 5) — it has opinions about hulls",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!j3ychcK84pSX81fD.ZW27Mk4P0CSZRbkW"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!j3ychcK84pSX81fD"
+}

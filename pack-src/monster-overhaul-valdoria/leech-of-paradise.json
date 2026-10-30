@@ -1,0 +1,134 @@
+{
+  "_id": "gJS6cZtRaGJ10Dyp",
+  "name": "Leech of Paradise",
+  "type": "NPC",
+  "img": "modules/valdoria-overhaul/art/leech-of-paradise.png",
+  "system": {
+    "level": {
+      "value": 0
+    },
+    "attributes": {
+      "ac": {
+        "value": 11,
+        "base": 11
+      },
+      "hp": {
+        "value": 2,
+        "max": 2,
+        "base": 2
+      }
+    },
+    "abilities": {
+      "str": {
+        "mod": -4,
+        "base": 2
+      },
+      "dex": {
+        "mod": 1,
+        "base": 12
+      },
+      "con": {
+        "mod": 0,
+        "base": 10
+      },
+      "int": {
+        "mod": -4,
+        "base": 2
+      },
+      "wis": {
+        "mod": -2,
+        "base": 6
+      },
+      "cha": {
+        "mod": 0,
+        "base": 10
+      }
+    },
+    "notes": "A thumb-sized worm that glows blue-white. No voice. Benevolent-seeming \u2014 it wants only to complete its life cycle.\n\nConverted from The Monster Overhaul (Strange Water, p. 287). LV = HD, HP as printed; Shadowdark conversion by the Valdoria importer."
+  },
+  "prototypeToken": {
+    "name": "Leech of Paradise",
+    "texture": {
+      "src": "modules/valdoria-overhaul/art/leech-of-paradise.png"
+    },
+    "actorLink": false,
+    "bar1": {
+      "attribute": "attributes.hp"
+    }
+  },
+  "items": [
+    {
+      "_id": "nAwaKBpnSkzRNpxU",
+      "name": "Bite (Attach) +2 (0)",
+      "type": "NPC Attack",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "attack": "",
+        "attackType": "",
+        "bonuses": {},
+        "damage": "0",
+        "ranges": "near"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!gJS6cZtRaGJ10Dyp.nAwaKBpnSkzRNpxU"
+    },
+    {
+      "_id": "4GTuebsCazo4QXOZ",
+      "name": "Healing Parasite",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "Bites to attach. Each round attached, the host heals 1 HP; beyond full HP the host instead gains temporary HP \u2014 but if temporary HP equals the host's normal HP, the host dies and bursts in a shower of tumors. A difficult Strength test pulls it free; salt removes it instantly and kills it.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!gJS6cZtRaGJ10Dyp.4GTuebsCazo4QXOZ"
+    },
+    {
+      "_id": "nUo6TJnlxeWGLGHJ",
+      "name": "Coveted",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "Worth 1,000 gp to any healer, alchemist, or scholar. Lives about a week in captivity.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!gJS6cZtRaGJ10Dyp.nUo6TJnlxeWGLGHJ"
+    },
+    {
+      "_id": "kLP9FgkIPHFqC8NT",
+      "name": "Soft Body",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "Immune to bludgeoning and slashing damage.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!gJS6cZtRaGJ10Dyp.kLP9FgkIPHFqC8NT"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "sort": 0,
+  "_key": "!actors!gJS6cZtRaGJ10Dyp"
+}

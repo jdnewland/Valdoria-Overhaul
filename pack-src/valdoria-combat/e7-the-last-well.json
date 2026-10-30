@@ -1,0 +1,117 @@
+{
+ "_id": "BAwp5QxPsENwCFQW",
+ "name": "Combat — E7 The Last Well",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for E7 The Last Well (18,15) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "ZJVAXJ29ASbdae7T",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!BAwp5QxPsENwCFQW.ZJVAXJ29ASbdae7T"
+  },
+  {
+   "_id": "HAacs1jRDdaMhj1q",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!BAwp5QxPsENwCFQW.HAacs1jRDdaMhj1q"
+  },
+  {
+   "_id": "fwQlxDeXjoGcDNZa",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!BAwp5QxPsENwCFQW.fwQlxDeXjoGcDNZa"
+  },
+  {
+   "_id": "LHLajfr5qM2OR4pY",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!BAwp5QxPsENwCFQW.LHLajfr5qM2OR4pY"
+  },
+  {
+   "_id": "0CJn8jNqKtYIbbf7",
+   "type": "text",
+   "text": "2d4 Bandit (LV 1) — well-taxers",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!BAwp5QxPsENwCFQW.0CJn8jNqKtYIbbf7"
+  },
+  {
+   "_id": "Pw0plDqIq3bSJxO4",
+   "type": "text",
+   "text": "⚠ 1 Lion† (LV 5) — an old male; the well is his",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!BAwp5QxPsENwCFQW.Pw0plDqIq3bSJxO4"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!BAwp5QxPsENwCFQW"
+}

@@ -1,0 +1,134 @@
+{
+ "_id": "VNi5iA91yXz6w9Qe",
+ "name": "Mantis Shrimp",
+ "type": "NPC",
+ "img": "modules/valdoria-overhaul/art/mantis-shrimp.png",
+ "system": {
+  "level": {
+   "value": 6
+  },
+  "attributes": {
+   "ac": {
+    "value": 14,
+    "base": 14
+   },
+   "hp": {
+    "value": 27,
+    "max": 27,
+    "base": 27
+   }
+  },
+  "abilities": {
+   "str": {
+    "mod": 4,
+    "base": 18
+   },
+   "dex": {
+    "mod": 2,
+    "base": 14
+   },
+   "con": {
+    "mod": 2,
+    "base": 14
+   },
+   "int": {
+    "mod": -1,
+    "base": 8
+   },
+   "wis": {
+    "mod": 2,
+    "base": 14
+   },
+   "cha": {
+    "mod": -2,
+    "base": 6
+   }
+  },
+  "notes": "A shrimp the size of a horse, with large stalked eyes and folded arms. Clicking and scraping. Focused hostility against intruders.\n\nConverted from The Monster Overhaul (Strange Water, p. 287). LV = HD, HP as printed; Shadowdark conversion by the Valdoria importer."
+ },
+ "prototypeToken": {
+  "name": "Mantis Shrimp",
+  "texture": {
+   "src": "modules/valdoria-overhaul/art/mantis-shrimp.png"
+  },
+  "actorLink": false,
+  "bar1": {
+   "attribute": "attributes.hp"
+  }
+ },
+ "items": [
+  {
+   "_id": "OwsZjtVlBdMWmHXf",
+   "name": "Cavitation Club +8 (2d12)",
+   "type": "NPC Attack",
+   "img": "icons/svg/sword.svg",
+   "system": {
+    "description": "",
+    "source": "",
+    "attack": "",
+    "attackType": "",
+    "bonuses": {},
+    "damage": "2d12",
+    "ranges": "near"
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!VNi5iA91yXz6w9Qe.OwsZjtVlBdMWmHXf"
+  },
+  {
+   "_id": "yFFgMgpScZ6i1pZF",
+   "name": "Stunning Strike",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "On a successful hit, the target must also Save or be stunned for 1 round.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!VNi5iA91yXz6w9Qe.yFFgMgpScZ6i1pZF"
+  },
+  {
+   "_id": "2zPmXCniDWZJfGj6",
+   "name": "Impossible Eyes",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "Sees invisible creatures. Ignores illusions, smoke, and sediment.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!VNi5iA91yXz6w9Qe.2zPmXCniDWZJfGj6"
+  },
+  {
+   "_id": "HDehxpptrQ3jo5Uv",
+   "name": "Territorial",
+   "type": "NPC Feature",
+   "img": "icons/svg/book.svg",
+   "system": {
+    "description": "Makes threatening gestures, then attacks. Defends its burrow and eggs to the death, but rarely pursues dangerous prey. A dead, intact mantis shrimp is worth 100 gp to a skilled armourer.",
+    "source": "",
+    "predefinedEffects": []
+   },
+   "effects": [],
+   "folder": null,
+   "flags": {},
+   "sort": 0,
+   "_key": "!actors.items!VNi5iA91yXz6w9Qe.HDehxpptrQ3jo5Uv"
+  }
+ ],
+ "effects": [],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!actors!VNi5iA91yXz6w9Qe"
+}

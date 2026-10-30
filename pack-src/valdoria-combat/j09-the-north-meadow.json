@@ -1,0 +1,117 @@
+{
+ "_id": "8z2xSkAmCXua5jbL",
+ "name": "Combat — J09 The North meadow",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for J09 The North meadow (19,12) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "cwvagZ2s4AVBIRYa",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!8z2xSkAmCXua5jbL.cwvagZ2s4AVBIRYa"
+  },
+  {
+   "_id": "ZXFHbaoI5OIbg780",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!8z2xSkAmCXua5jbL.ZXFHbaoI5OIbg780"
+  },
+  {
+   "_id": "q59uf6VbNPYhXBcO",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!8z2xSkAmCXua5jbL.q59uf6VbNPYhXBcO"
+  },
+  {
+   "_id": "BVOoVhhmgILe11bf",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!8z2xSkAmCXua5jbL.BVOoVhhmgILe11bf"
+  },
+  {
+   "_id": "QA7Q4sWsw8zUjYW0",
+   "type": "text",
+   "text": "1d4 Ape (LV 2) — a troop on the White Spiral Path",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!8z2xSkAmCXua5jbL.QA7Q4sWsw8zUjYW0"
+  },
+  {
+   "_id": "ZAFy2QUc18hsEKg1",
+   "type": "text",
+   "text": "⚠ 1 Tiger† (LV 5) — an old maneater walking the spiral",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!8z2xSkAmCXua5jbL.ZAFy2QUc18hsEKg1"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!8z2xSkAmCXua5jbL"
+}

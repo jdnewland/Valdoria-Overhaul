@@ -1,0 +1,117 @@
+{
+ "_id": "7Xzgh6LEdUpPw4Zr",
+ "name": "Combat — F7 The Signal Grass",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F7 The Signal Grass (24,11) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "2gCSe87814C6tHny",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!7Xzgh6LEdUpPw4Zr.2gCSe87814C6tHny"
+  },
+  {
+   "_id": "XVwJ6ZEdMOZe1zXs",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!7Xzgh6LEdUpPw4Zr.XVwJ6ZEdMOZe1zXs"
+  },
+  {
+   "_id": "6P5d4ZtUqbbrs8c1",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!7Xzgh6LEdUpPw4Zr.6P5d4ZtUqbbrs8c1"
+  },
+  {
+   "_id": "6nVmQuKGW3oXuU5X",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!7Xzgh6LEdUpPw4Zr.6nVmQuKGW3oXuU5X"
+  },
+  {
+   "_id": "yFgveeKv16QyctQY",
+   "type": "text",
+   "text": "2d4 Guard (LV 1) — a naval signal patrol; combat if the party runs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!7Xzgh6LEdUpPw4Zr.yFgveeKv16QyctQY"
+  },
+  {
+   "_id": "33ckkvN6QiNeU4Vv",
+   "type": "text",
+   "text": "1d4 Pirate (LV 1) — raiders after the signal mast's copper",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!7Xzgh6LEdUpPw4Zr.33ckkvN6QiNeU4Vv"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!7Xzgh6LEdUpPw4Zr"
+}

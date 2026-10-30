@@ -1,0 +1,117 @@
+{
+ "_id": "5WOjkTSv2nCLR3KF",
+ "name": "Combat — A11 The First Still",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for A11 The First Still (15,11) · Desert / Cinder Wastes. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "umDlC5LfDmaghlNM",
+   "type": "text",
+   "text": "1 Ankheg (LV 3) — bursting from the ash drift",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!5WOjkTSv2nCLR3KF.umDlC5LfDmaghlNM"
+  },
+  {
+   "_id": "ptWGQNGsLHFlxxpg",
+   "type": "text",
+   "text": "2d4 Baboon† (LV 1) — a raiding troop; grabs loose gear and runs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!5WOjkTSv2nCLR3KF.ptWGQNGsLHFlxxpg"
+  },
+  {
+   "_id": "hXWPpxrywlR4Fbes",
+   "type": "text",
+   "text": "2d6 Scorpion (LV 0) — under rocks and cactus roots",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!5WOjkTSv2nCLR3KF.hXWPpxrywlR4Fbes"
+  },
+  {
+   "_id": "eODmb4DfymLsiNEE",
+   "type": "text",
+   "text": "1d6 Vulture (LV 1) — circling something dead; bold if the party is bleeding",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!5WOjkTSv2nCLR3KF.eODmb4DfymLsiNEE"
+  },
+  {
+   "_id": "MbkdAUbN63sjwhbH",
+   "type": "text",
+   "text": "1d4 Scorpion, Giant (LV 3) — basking on the hot rock",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!5WOjkTSv2nCLR3KF.MbkdAUbN63sjwhbH"
+  },
+  {
+   "_id": "8af1JpekXY1CrhWU",
+   "type": "text",
+   "text": "⚠ 1 Efreeti (LV 9) — the First Still's true distiller; bargain or flee",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!5WOjkTSv2nCLR3KF.8af1JpekXY1CrhWU"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!5WOjkTSv2nCLR3KF"
+}

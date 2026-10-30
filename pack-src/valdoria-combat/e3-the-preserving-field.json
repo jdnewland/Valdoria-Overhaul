@@ -1,0 +1,117 @@
+{
+ "_id": "iJQYtO6J8St1l1oV",
+ "name": "Combat — E3 The Preserving Field",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for E3 The Preserving Field (17,15) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "kL8WfzqcQNgxppdv",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!iJQYtO6J8St1l1oV.kL8WfzqcQNgxppdv"
+  },
+  {
+   "_id": "6H32W7ErMcZiznKm",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!iJQYtO6J8St1l1oV.6H32W7ErMcZiznKm"
+  },
+  {
+   "_id": "HCeIwrbmTcVeyPrH",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!iJQYtO6J8St1l1oV.HCeIwrbmTcVeyPrH"
+  },
+  {
+   "_id": "0EgQADinHYNLjJgw",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!iJQYtO6J8St1l1oV.0EgQADinHYNLjJgw"
+  },
+  {
+   "_id": "U7qNqcoZCuDhfDLE",
+   "type": "text",
+   "text": "2d6 Skeleton (LV 2) — the ancient sea's crew, salt-preserved",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!iJQYtO6J8St1l1oV.U7qNqcoZCuDhfDLE"
+  },
+  {
+   "_id": "YiGsd3lkxFUpBnxF",
+   "type": "text",
+   "text": "1d4 Zombie (LV 2) — salt mummies of the old battlefield road",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!iJQYtO6J8St1l1oV.YiGsd3lkxFUpBnxF"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!iJQYtO6J8St1l1oV"
+}

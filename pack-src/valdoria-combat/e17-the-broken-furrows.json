@@ -1,0 +1,117 @@
+{
+ "_id": "CtQKc4DM1pxfdxpq",
+ "name": "Combat — E17 The Broken Furrows",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for E17 The Broken Furrows (18,17) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "bqX1l0jUD8tkSSFm",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!CtQKc4DM1pxfdxpq.bqX1l0jUD8tkSSFm"
+  },
+  {
+   "_id": "AEhIqNV0po5Uhrja",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!CtQKc4DM1pxfdxpq.AEhIqNV0po5Uhrja"
+  },
+  {
+   "_id": "SBsnAPsHEohOQT9R",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!CtQKc4DM1pxfdxpq.SBsnAPsHEohOQT9R"
+  },
+  {
+   "_id": "vEHap2mriGJlTxN6",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!CtQKc4DM1pxfdxpq.vEHap2mriGJlTxN6"
+  },
+  {
+   "_id": "h3BmcR6DBsGZSk79",
+   "type": "text",
+   "text": "1d6 Skeleton (LV 2) — the model farm's last tenants",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!CtQKc4DM1pxfdxpq.h3BmcR6DBsGZSk79"
+  },
+  {
+   "_id": "aSUa2g9G14cPHtTE",
+   "type": "text",
+   "text": "1 Ankheg (LV 3) — ploughing the furrows straighter",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!CtQKc4DM1pxfdxpq.aSUa2g9G14cPHtTE"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!CtQKc4DM1pxfdxpq"
+}

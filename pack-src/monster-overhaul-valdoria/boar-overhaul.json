@@ -1,0 +1,118 @@
+{
+  "_id": "pIFDdu03DF9yeWlp",
+  "name": "Boar (Overhaul)",
+  "type": "NPC",
+  "img": "modules/valdoria-overhaul/art/boar.png",
+  "system": {
+    "level": {
+      "value": 3
+    },
+    "attributes": {
+      "ac": {
+        "value": 12,
+        "base": 12
+      },
+      "hp": {
+        "value": 14,
+        "max": 14,
+        "base": 14
+      }
+    },
+    "abilities": {
+      "str": {
+        "mod": 3,
+        "base": 16
+      },
+      "dex": {
+        "mod": 0,
+        "base": 10
+      },
+      "con": {
+        "mod": 2,
+        "base": 14
+      },
+      "int": {
+        "mod": -1,
+        "base": 8
+      },
+      "wis": {
+        "mod": 1,
+        "base": 12
+      },
+      "cha": {
+        "mod": -1,
+        "base": 8
+      }
+    },
+    "notes": "A short-legged, shaggy, tusked pig. Grunting, squealing, screaming. As smart as most people, and vicious.\n\nConverted from The Monster Overhaul (Hostile Forests, p. 240). LV = HD, HP as printed; Shadowdark conversion by the Valdoria importer."
+  },
+  "prototypeToken": {
+    "name": "Boar (Overhaul)",
+    "texture": {
+      "src": "modules/valdoria-overhaul/art/boar.png"
+    },
+    "actorLink": false,
+    "bar1": {
+      "attribute": "attributes.hp"
+    }
+  },
+  "items": [
+    {
+      "_id": "eIA3pkUbqxYXOBb6",
+      "name": "Tusk +5 (1d12)",
+      "type": "NPC Attack",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "attack": "",
+        "attackType": "",
+        "bonuses": {},
+        "damage": "1d12",
+        "ranges": "near"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!pIFDdu03DF9yeWlp.eIA3pkUbqxYXOBb6"
+    },
+    {
+      "_id": "6db6APgCgXsRzmbo",
+      "name": "Death Throe",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "After taking lethal damage, a boar makes one final attack against an adjacent target before dying.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!pIFDdu03DF9yeWlp.6db6APgCgXsRzmbo"
+    },
+    {
+      "_id": "omIZxt8nK67X3KiR",
+      "name": "Vengeful",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "Boars are surprisingly patient and extraordinarily vengeful. A wronged boar remembers.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!pIFDdu03DF9yeWlp.omIZxt8nK67X3KiR"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "sort": 0,
+  "_key": "!actors!pIFDdu03DF9yeWlp"
+}

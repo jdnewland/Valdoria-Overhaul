@@ -1,0 +1,117 @@
+{
+ "_id": "XJXZtG6tKdL1ah18",
+ "name": "Combat — E13 The Caravan Plain",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for E13 The Caravan Plain (20,16) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "Y2lsWMo0aLlzC5AW",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!XJXZtG6tKdL1ah18.Y2lsWMo0aLlzC5AW"
+  },
+  {
+   "_id": "L5KwdVZETrO5h3dJ",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!XJXZtG6tKdL1ah18.L5KwdVZETrO5h3dJ"
+  },
+  {
+   "_id": "uU0K8B6LLAMeFH00",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!XJXZtG6tKdL1ah18.uU0K8B6LLAMeFH00"
+  },
+  {
+   "_id": "QlgDycEQS0IntOyz",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!XJXZtG6tKdL1ah18.QlgDycEQS0IntOyz"
+  },
+  {
+   "_id": "UXudEtJVAQxubWhx",
+   "type": "text",
+   "text": "2d4 Bandit (LV 1) — plain-robbers working the wagons",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!XJXZtG6tKdL1ah18.UXudEtJVAQxubWhx"
+  },
+  {
+   "_id": "DCuyK9xa5dehc5nR",
+   "type": "text",
+   "text": "⚠ 1 Lion† (LV 5) — a pride shadowing the caravan",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!XJXZtG6tKdL1ah18.DCuyK9xa5dehc5nR"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!XJXZtG6tKdL1ah18"
+}

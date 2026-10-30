@@ -1,0 +1,117 @@
+{
+ "_id": "CpDVCu2lNG8dZjXs",
+ "name": "Combat — J02 Sepernt Peak",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for J02 Sepernt Peak (19,10) · Hills / Mountains. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "MS1QrbO2vU2jf7KL",
+   "type": "text",
+   "text": "2d4 Goblin (LV 1) — Greyspine raiders on the high paths",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!CpDVCu2lNG8dZjXs.MS1QrbO2vU2jf7KL"
+  },
+  {
+   "_id": "7w67EbSoetrG3n1k",
+   "type": "text",
+   "text": "1 Harpy (LV 3) — singing from the crags",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!CpDVCu2lNG8dZjXs.7w67EbSoetrG3n1k"
+  },
+  {
+   "_id": "plWyUffntG7yzS7y",
+   "type": "text",
+   "text": "1 Wyvern (LV 3) — nesting on the ledges",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!CpDVCu2lNG8dZjXs.plWyUffntG7yzS7y"
+  },
+  {
+   "_id": "s5pxjwjqsDkQJajY",
+   "type": "text",
+   "text": "2d6 Ape (LV 2) — a troop defending the high pass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!CpDVCu2lNG8dZjXs.s5pxjwjqsDkQJajY"
+  },
+  {
+   "_id": "cwkUkNjO71oufc2b",
+   "type": "text",
+   "text": "1 Snake, Giant (LV 5) — the Serpent of the spire, sunning on warm stone",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!CpDVCu2lNG8dZjXs.cwkUkNjO71oufc2b"
+  },
+  {
+   "_id": "y28u5q3JYOQyissl",
+   "type": "text",
+   "text": "1d4 Wyvern (LV 3) — the serpent's rivals, nesting below the spire",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!CpDVCu2lNG8dZjXs.y28u5q3JYOQyissl"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!CpDVCu2lNG8dZjXs"
+}

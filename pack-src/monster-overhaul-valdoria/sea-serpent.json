@@ -1,0 +1,138 @@
+{
+  "_id": "nZQpif39KzxDA3bp",
+  "name": "Sea Serpent",
+  "type": "NPC",
+  "img": "modules/valdoria-overhaul/art/sea-serpent.png",
+  "system": {
+    "level": {
+      "value": 12
+    },
+    "attributes": {
+      "ac": {
+        "value": 14,
+        "base": 14
+      },
+      "hp": {
+        "value": 54,
+        "max": 54,
+        "base": 54
+      }
+    },
+    "abilities": {
+      "str": {
+        "mod": 5,
+        "base": 20
+      },
+      "dex": {
+        "mod": 1,
+        "base": 12
+      },
+      "con": {
+        "mod": 3,
+        "base": 16
+      },
+      "int": {
+        "mod": 0,
+        "base": 10
+      },
+      "wis": {
+        "mod": 1,
+        "base": 12
+      },
+      "cha": {
+        "mod": 0,
+        "base": 10
+      }
+    },
+    "notes": "A sinuous aquatic reptile at least 50 ft long, all scales and teeth. Hideous roaring, screeching, hissing. Wants to devour flesh.\n\nConverted from The Monster Overhaul (Stormy Seas, p. 275). LV = HD, HP as printed; Shadowdark conversion by the Valdoria importer."
+  },
+  "prototypeToken": {
+    "name": "Sea Serpent",
+    "texture": {
+      "src": "modules/valdoria-overhaul/art/sea-serpent.png"
+    },
+    "actorLink": false,
+    "bar1": {
+      "attribute": "attributes.hp"
+    }
+  },
+  "items": [
+    {
+      "_id": "ZrglCAPjTxv49e9V",
+      "name": "Bite +8 (3d10)",
+      "type": "NPC Attack",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "attack": "",
+        "attackType": "",
+        "bonuses": {},
+        "damage": "3d10",
+        "ranges": "near"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!nZQpif39KzxDA3bp.ZrglCAPjTxv49e9V"
+    },
+    {
+      "_id": "Kxd5Cq45uWLYmuvi",
+      "name": "Coil Bludgeon +8 (1d8) \u00d72",
+      "type": "NPC Attack",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "attack": "",
+        "attackType": "",
+        "bonuses": {},
+        "damage": "1d8",
+        "ranges": "near"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!nZQpif39KzxDA3bp.Kxd5Cq45uWLYmuvi"
+    },
+    {
+      "_id": "SNcvf4BJj29JCg9W",
+      "name": "Ship-Bane",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "Infamously vicious predators that sink ships and devour sailors with ease, with a malign and devious intelligence.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!nZQpif39KzxDA3bp.SNcvf4BJj29JCg9W"
+    },
+    {
+      "_id": "QQkvVRKiJFBe9CH4",
+      "name": "Swallowed Fortune",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "A sea serpent's guts contain 100x1d6 gp in swallowed coins and barnacle-coated gems.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!nZQpif39KzxDA3bp.QQkvVRKiJFBe9CH4"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "sort": 0,
+  "_key": "!actors!nZQpif39KzxDA3bp"
+}

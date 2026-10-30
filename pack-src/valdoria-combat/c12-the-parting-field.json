@@ -1,0 +1,117 @@
+{
+ "_id": "GQaLLIYQXsuBpyg5",
+ "name": "Combat — C12 The Parting Field",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for C12 The Parting Field (19,14) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "f205Xumld1fIpdHu",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!GQaLLIYQXsuBpyg5.f205Xumld1fIpdHu"
+  },
+  {
+   "_id": "GWyligkjSQprKSdU",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!GQaLLIYQXsuBpyg5.GWyligkjSQprKSdU"
+  },
+  {
+   "_id": "vW02SE1qN9klZeFy",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!GQaLLIYQXsuBpyg5.vW02SE1qN9klZeFy"
+  },
+  {
+   "_id": "rbsp9WgmqeU9Glbo",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!GQaLLIYQXsuBpyg5.rbsp9WgmqeU9Glbo"
+  },
+  {
+   "_id": "bFZLq6iQBJgSJ06o",
+   "type": "text",
+   "text": "2d4 Bandit (LV 1) — crossroads toll-takers",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!GQaLLIYQXsuBpyg5.bFZLq6iQBJgSJ06o"
+  },
+  {
+   "_id": "TeZWbxAk7otuQZ0t",
+   "type": "text",
+   "text": "1 Mage (LV 3) — a road-wizard collecting debts",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!GQaLLIYQXsuBpyg5.TeZWbxAk7otuQZ0t"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!GQaLLIYQXsuBpyg5"
+}

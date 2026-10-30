@@ -1,0 +1,117 @@
+{
+ "_id": "3JqKu6vQPdEyjg5M",
+ "name": "Combat — B4 The Goat Track",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for B4 The Goat Track (20,10) · Hills / Mountains. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "mkMM6c0PY84kKSPW",
+   "type": "text",
+   "text": "1 Harpy (LV 3) — singing from the crags",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!3JqKu6vQPdEyjg5M.mkMM6c0PY84kKSPW"
+  },
+  {
+   "_id": "2oqpezaRX3pyXOpH",
+   "type": "text",
+   "text": "1 Wyvern (LV 3) — nesting on the ledges",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!3JqKu6vQPdEyjg5M.2oqpezaRX3pyXOpH"
+  },
+  {
+   "_id": "IotH8pCp32X3i5DG",
+   "type": "text",
+   "text": "2d6 Ape (LV 2) — a troop defending the high pass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!3JqKu6vQPdEyjg5M.IotH8pCp32X3i5DG"
+  },
+  {
+   "_id": "2A1cx4GI2Tiolkke",
+   "type": "text",
+   "text": "2d4 Goblin (LV 1) — Greyspine raiders on the high paths",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!3JqKu6vQPdEyjg5M.2A1cx4GI2Tiolkke"
+  },
+  {
+   "_id": "Q12erACf5APxpZ0M",
+   "type": "text",
+   "text": "2d6 Telluric Goat† (LV 4) — a herd surfacing to eat the trail markers",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!3JqKu6vQPdEyjg5M.Q12erACf5APxpZ0M"
+  },
+  {
+   "_id": "cK8Eksg6nYv1Mh8y",
+   "type": "text",
+   "text": "1 Griffon (LV 4) — stooping on the goat herds",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!3JqKu6vQPdEyjg5M.cK8Eksg6nYv1Mh8y"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!3JqKu6vQPdEyjg5M"
+}

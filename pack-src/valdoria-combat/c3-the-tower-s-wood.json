@@ -1,0 +1,117 @@
+{
+ "_id": "uIwf8pGFCrSfwXmc",
+ "name": "Combat — C3 The Tower's Wood",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for C3 The Tower's Wood (20,12) · Woodland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "ASF8E2yh2DmNwGus",
+   "type": "text",
+   "text": "1 Ettercap (LV 3) — herding its spiders",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!uIwf8pGFCrSfwXmc.ASF8E2yh2DmNwGus"
+  },
+  {
+   "_id": "z9Jw2ei6d63cuHwh",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — shadowing the trail",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!uIwf8pGFCrSfwXmc.z9Jw2ei6d63cuHwh"
+  },
+  {
+   "_id": "JAmFQLCBiA9aDvD0",
+   "type": "text",
+   "text": "1 Spider, Giant (LV 3) — webs across the path",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!uIwf8pGFCrSfwXmc.JAmFQLCBiA9aDvD0"
+  },
+  {
+   "_id": "6eOYtaU8rroMQN84",
+   "type": "text",
+   "text": "2d6 Boar (Overhaul)† (LV 3) — a sounder defending its piglets",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!uIwf8pGFCrSfwXmc.6eOYtaU8rroMQN84"
+  },
+  {
+   "_id": "lUewfth3hv78q5Y5",
+   "type": "text",
+   "text": "1d4 Shadow (LV 3) — where the trees lean away",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!uIwf8pGFCrSfwXmc.lUewfth3hv78q5Y5"
+  },
+  {
+   "_id": "bv4KMMcimClkXnir",
+   "type": "text",
+   "text": "⚠ 1 Owlbear (LV 6) — it nests facing the tower",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!uIwf8pGFCrSfwXmc.bv4KMMcimClkXnir"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!uIwf8pGFCrSfwXmc"
+}

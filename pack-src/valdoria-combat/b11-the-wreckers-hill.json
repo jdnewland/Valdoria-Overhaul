@@ -1,0 +1,117 @@
+{
+ "_id": "URz8kIFcOB8bXm6o",
+ "name": "Combat — B11 The Wreckers' Hill",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for B11 The Wreckers' Hill (22,11) · Hills / Mountains. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "w1o2OxWVJRWamQJP",
+   "type": "text",
+   "text": "1 Wyvern (LV 3) — nesting on the ledges",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!URz8kIFcOB8bXm6o.w1o2OxWVJRWamQJP"
+  },
+  {
+   "_id": "eN0ClF5PJ8K0a9Rt",
+   "type": "text",
+   "text": "2d6 Ape (LV 2) — a troop defending the high pass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!URz8kIFcOB8bXm6o.eN0ClF5PJ8K0a9Rt"
+  },
+  {
+   "_id": "KNZIvDeovLzHdrb8",
+   "type": "text",
+   "text": "2d4 Goblin (LV 1) — Greyspine raiders on the high paths",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!URz8kIFcOB8bXm6o.KNZIvDeovLzHdrb8"
+  },
+  {
+   "_id": "NNnr3yHH3Ax6NBb7",
+   "type": "text",
+   "text": "1 Harpy (LV 3) — singing from the crags",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!URz8kIFcOB8bXm6o.NNnr3yHH3Ax6NBb7"
+  },
+  {
+   "_id": "nzxlIljva5VXyme7",
+   "type": "text",
+   "text": "2d4 Pirate (LV 1) — wreckers defending their fire-sites",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!URz8kIFcOB8bXm6o.nzxlIljva5VXyme7"
+  },
+  {
+   "_id": "mWpjIkc2uJSGWgY5",
+   "type": "text",
+   "text": "1d4 Harpy (LV 3) — the wreckers' old partners, come for their share",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!URz8kIFcOB8bXm6o.mWpjIkc2uJSGWgY5"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!URz8kIFcOB8bXm6o"
+}

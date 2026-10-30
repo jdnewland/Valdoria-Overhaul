@@ -1,0 +1,134 @@
+{
+  "_id": "VwOympjrP42dob9n",
+  "name": "Alpine Spectre",
+  "type": "NPC",
+  "img": "modules/valdoria-overhaul/art/alpine-spectre.png",
+  "system": {
+    "level": {
+      "value": 6
+    },
+    "attributes": {
+      "ac": {
+        "value": 11,
+        "base": 11
+      },
+      "hp": {
+        "value": 27,
+        "max": 27,
+        "base": 27
+      }
+    },
+    "abilities": {
+      "str": {
+        "mod": -2,
+        "base": 6
+      },
+      "dex": {
+        "mod": 2,
+        "base": 14
+      },
+      "con": {
+        "mod": 0,
+        "base": 10
+      },
+      "int": {
+        "mod": 0,
+        "base": 10
+      },
+      "wis": {
+        "mod": 2,
+        "base": 14
+      },
+      "cha": {
+        "mod": 1,
+        "base": 12
+      }
+    },
+    "notes": "An elongated humanoid shadow ringed with rainbow light, seeming miles away and within arm's reach at once. Silent. Wants to live again.\n\nConverted from The Monster Overhaul (Mysterious Mountains, p. 261). LV = HD, HP as printed; Shadowdark conversion by the Valdoria importer."
+  },
+  "prototypeToken": {
+    "name": "Alpine Spectre",
+    "texture": {
+      "src": "modules/valdoria-overhaul/art/alpine-spectre.png"
+    },
+    "actorLink": false,
+    "bar1": {
+      "attribute": "attributes.hp"
+    }
+  },
+  "items": [
+    {
+      "_id": "VKnbD36TIxKP4IeJ",
+      "name": "Chill Touch +8 (1d8)",
+      "type": "NPC Attack",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "attack": "",
+        "attackType": "",
+        "bonuses": {},
+        "damage": "1d8",
+        "ranges": "near"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!VwOympjrP42dob9n.VKnbD36TIxKP4IeJ"
+    },
+    {
+      "_id": "KYwrOTnFcQYWEE5G",
+      "name": "Incorporeal Immunities",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "Immune to elemental and non-magical damage. Its chill touch ignores armour.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!VwOympjrP42dob9n.KYwrOTnFcQYWEE5G"
+    },
+    {
+      "_id": "Xgq84kmUxojEzYgU",
+      "name": "Drain Vitality",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "A creature hit by its touch must Save or have the XP required for its next level doubled (in games without XP math: take 2 permanent stat damage). After draining, the spectre must test Morale or vanish.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!VwOympjrP42dob9n.Xgq84kmUxojEzYgU"
+    },
+    {
+      "_id": "LIQ6m5lxoJGbi2UB",
+      "name": "Unwatched Speed",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "Flies at normal speed when observed \u2014 six times faster when nobody is watching.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!VwOympjrP42dob9n.LIQ6m5lxoJGbi2UB"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "sort": 0,
+  "_key": "!actors!VwOympjrP42dob9n"
+}

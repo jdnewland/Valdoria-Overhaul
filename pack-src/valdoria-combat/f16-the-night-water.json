@@ -1,0 +1,117 @@
+{
+ "_id": "jMpDh9k7vIM5OtMd",
+ "name": "Combat — F16 The Night Water",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F16 The Night Water (22,16) · Coast / Sakeen Sea. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "gdvlgLuIC2griw2r",
+   "type": "text",
+   "text": "2d6 Pirate (LV 1) — a boarding party",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!jMpDh9k7vIM5OtMd.gdvlgLuIC2griw2r"
+  },
+  {
+   "_id": "gf4mz0P9yB1ceU3z",
+   "type": "text",
+   "text": "1d4 Shark (LV 3) — circling blood in the water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!jMpDh9k7vIM5OtMd.gf4mz0P9yB1ceU3z"
+  },
+  {
+   "_id": "STpzBjqrweJljyUA",
+   "type": "text",
+   "text": "2d4 Merfolk (LV 2) — a territorial shoal-guard",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!jMpDh9k7vIM5OtMd.STpzBjqrweJljyUA"
+  },
+  {
+   "_id": "RwCQ1jyegoFITJ4T",
+   "type": "text",
+   "text": "2d6 Deep One (LV 2) — rising from the deep water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!jMpDh9k7vIM5OtMd.RwCQ1jyegoFITJ4T"
+  },
+  {
+   "_id": "6d5yo74VLcpkIMsm",
+   "type": "text",
+   "text": "1d4 Deep One (LV 2) — the channel's congregation",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!jMpDh9k7vIM5OtMd.6d5yo74VLcpkIMsm"
+  },
+  {
+   "_id": "nRumCfMf2trynsvo",
+   "type": "text",
+   "text": "⚠ 1 Sea Serpent† (LV 12) — the dark channel is its road",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!jMpDh9k7vIM5OtMd.nRumCfMf2trynsvo"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!jMpDh9k7vIM5OtMd"
+}

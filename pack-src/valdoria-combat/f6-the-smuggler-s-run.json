@@ -1,0 +1,117 @@
+{
+ "_id": "RHfGlVP8ndU9uOse",
+ "name": "Combat — F6 The Smuggler's Run",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F6 The Smuggler's Run (22,15) · Coast / Sakeen Sea. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "n6tbZOGY8BSmYXdX",
+   "type": "text",
+   "text": "2d6 Pirate (LV 1) — a boarding party",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!RHfGlVP8ndU9uOse.n6tbZOGY8BSmYXdX"
+  },
+  {
+   "_id": "9gLNNjPffhaxYaS4",
+   "type": "text",
+   "text": "1d4 Shark (LV 3) — circling blood in the water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!RHfGlVP8ndU9uOse.9gLNNjPffhaxYaS4"
+  },
+  {
+   "_id": "DvSrBtuUBrhdAf5A",
+   "type": "text",
+   "text": "2d4 Merfolk (LV 2) — a territorial shoal-guard",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!RHfGlVP8ndU9uOse.DvSrBtuUBrhdAf5A"
+  },
+  {
+   "_id": "rXzLw2OO1DVyKOIs",
+   "type": "text",
+   "text": "2d6 Deep One (LV 2) — rising from the deep water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!RHfGlVP8ndU9uOse.rXzLw2OO1DVyKOIs"
+  },
+  {
+   "_id": "eUgiqoBgGr7inpkc",
+   "type": "text",
+   "text": "2d4 Pirate (LV 1) — a crew defending its channel",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!RHfGlVP8ndU9uOse.eUgiqoBgGr7inpkc"
+  },
+  {
+   "_id": "ejsgXmLie672WYGv",
+   "type": "text",
+   "text": "1 Remora† (LV 2) — the reason the chase stopped",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!RHfGlVP8ndU9uOse.ejsgXmLie672WYGv"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!RHfGlVP8ndU9uOse"
+}

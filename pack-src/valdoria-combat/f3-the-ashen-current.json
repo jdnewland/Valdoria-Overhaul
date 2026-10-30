@@ -1,0 +1,117 @@
+{
+ "_id": "ZrwA7dfnvUBDWU40",
+ "name": "Combat — F3 The Ashen Current",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F3 The Ashen Current (24,10) · Coast / Sakeen Sea. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "WzyBcDH7bO2lPRFO",
+   "type": "text",
+   "text": "2d6 Pirate (LV 1) — a boarding party",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!ZrwA7dfnvUBDWU40.WzyBcDH7bO2lPRFO"
+  },
+  {
+   "_id": "8N8sg31B7dMi0zVm",
+   "type": "text",
+   "text": "1d4 Shark (LV 3) — circling blood in the water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!ZrwA7dfnvUBDWU40.8N8sg31B7dMi0zVm"
+  },
+  {
+   "_id": "Ya2H1tJN8uHNtizv",
+   "type": "text",
+   "text": "2d4 Merfolk (LV 2) — a territorial shoal-guard",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!ZrwA7dfnvUBDWU40.Ya2H1tJN8uHNtizv"
+  },
+  {
+   "_id": "X7wLTpi956DX0wDx",
+   "type": "text",
+   "text": "2d6 Deep One (LV 2) — rising from the deep water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!ZrwA7dfnvUBDWU40.X7wLTpi956DX0wDx"
+  },
+  {
+   "_id": "09yUJZj6bU4wk7Ct",
+   "type": "text",
+   "text": "1 Remora† (LV 2) — fastened to the hull; the ship stops dead",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!ZrwA7dfnvUBDWU40.09yUJZj6bU4wk7Ct"
+  },
+  {
+   "_id": "ZZWUC0MmItrU0JAf",
+   "type": "text",
+   "text": "1d4 Deep One (LV 2) — coming up through the ash-grey water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!ZrwA7dfnvUBDWU40.ZZWUC0MmItrU0JAf"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!ZrwA7dfnvUBDWU40"
+}

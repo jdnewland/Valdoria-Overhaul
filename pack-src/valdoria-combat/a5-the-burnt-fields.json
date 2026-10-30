@@ -1,0 +1,117 @@
+{
+ "_id": "n29WCY285uz1awZC",
+ "name": "Combat — A5 The Burnt Fields",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for A5 The Burnt Fields (13,11) · Desert / Cinder Wastes. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "UPrV2rlmYu9Md4ws",
+   "type": "text",
+   "text": "2d6 Scorpion (LV 0) — under rocks and cactus roots",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!n29WCY285uz1awZC.UPrV2rlmYu9Md4ws"
+  },
+  {
+   "_id": "ndILfjAgGJN5P1yk",
+   "type": "text",
+   "text": "1d6 Vulture (LV 1) — circling something dead; bold if the party is bleeding",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!n29WCY285uz1awZC.ndILfjAgGJN5P1yk"
+  },
+  {
+   "_id": "dg3mD8FVCuEsfCRz",
+   "type": "text",
+   "text": "1 Ankheg (LV 3) — bursting from the ash drift",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!n29WCY285uz1awZC.dg3mD8FVCuEsfCRz"
+  },
+  {
+   "_id": "sOs8tEBkgTu7zc1L",
+   "type": "text",
+   "text": "2d4 Baboon† (LV 1) — a raiding troop; grabs loose gear and runs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!n29WCY285uz1awZC.sOs8tEBkgTu7zc1L"
+  },
+  {
+   "_id": "uQCfZ6U7yPmtkHmZ",
+   "type": "text",
+   "text": "1d4 Hive Insect† (LV 2) — after the pepper crop",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!n29WCY285uz1awZC.uQCfZ6U7yPmtkHmZ"
+  },
+  {
+   "_id": "bSGz7MCGAEgPJmpn",
+   "type": "text",
+   "text": "2d4 Zombie (LV 2) — burnt dead walking off the old battlefield's edge",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!n29WCY285uz1awZC.bSGz7MCGAEgPJmpn"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!n29WCY285uz1awZC"
+}

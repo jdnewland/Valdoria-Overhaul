@@ -1,0 +1,117 @@
+{
+ "_id": "c1vg7pEKMYF9NnDp",
+ "name": "Combat — C1 The Hanging Moss",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for C1 The Hanging Moss (17,11) · Hills / Mountains. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "B4Pj94HMl0ABffUP",
+   "type": "text",
+   "text": "2d4 Goblin (LV 1) — Greyspine raiders on the high paths",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!c1vg7pEKMYF9NnDp.B4Pj94HMl0ABffUP"
+  },
+  {
+   "_id": "fvqSdRy5gxtRKzwn",
+   "type": "text",
+   "text": "1 Harpy (LV 3) — singing from the crags",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!c1vg7pEKMYF9NnDp.fvqSdRy5gxtRKzwn"
+  },
+  {
+   "_id": "Qf0vmdbLzCKyCfaA",
+   "type": "text",
+   "text": "1 Wyvern (LV 3) — nesting on the ledges",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!c1vg7pEKMYF9NnDp.Qf0vmdbLzCKyCfaA"
+  },
+  {
+   "_id": "Dyrg0lkkQuyOSYw5",
+   "type": "text",
+   "text": "2d6 Ape (LV 2) — a troop defending the high pass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!c1vg7pEKMYF9NnDp.Dyrg0lkkQuyOSYw5"
+  },
+  {
+   "_id": "KZkMYSgKqscUpUiQ",
+   "type": "text",
+   "text": "1d6 Spider, Giant (LV 3) — nesting in the moss curtains",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!c1vg7pEKMYF9NnDp.KZkMYSgKqscUpUiQ"
+  },
+  {
+   "_id": "lvyzwPYcksonmVK2",
+   "type": "text",
+   "text": "1 Cave Creeper (LV 4) — soundless in the silent cirque",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!c1vg7pEKMYF9NnDp.lvyzwPYcksonmVK2"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!c1vg7pEKMYF9NnDp"
+}

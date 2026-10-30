@@ -1,0 +1,117 @@
+{
+ "_id": "P0i50SSt9JuNTeeb",
+ "name": "Combat — J04 White Sparrow",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for J04 White Sparrow (19,11) · Settlement / Road. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "L6o8G8GvtbYs2lBz",
+   "type": "text",
+   "text": "2d4 Bandit (LV 1) — road agents and alley toughs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!P0i50SSt9JuNTeeb.L6o8G8GvtbYs2lBz"
+  },
+  {
+   "_id": "SlhVphML9F7oKDLi",
+   "type": "text",
+   "text": "1d6 Rat, Giant (LV 0) — cellar vermin, bold as cats",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!P0i50SSt9JuNTeeb.SlhVphML9F7oKDLi"
+  },
+  {
+   "_id": "7lPnEecRvhxlZoac",
+   "type": "text",
+   "text": "2d4 Guard (LV 1) — a patrol that wants names; combat if resisted",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!P0i50SSt9JuNTeeb.7lPnEecRvhxlZoac"
+  },
+  {
+   "_id": "5siMj4QJup7i2F9j",
+   "type": "text",
+   "text": "1d4 Thug (LV 3) — hired muscle",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!P0i50SSt9JuNTeeb.5siMj4QJup7i2F9j"
+  },
+  {
+   "_id": "zdJ9Jbd3e5Kvw5JQ",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — bold wolves at the village edge",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!P0i50SSt9JuNTeeb.zdJ9Jbd3e5Kvw5JQ"
+  },
+  {
+   "_id": "AHbnIe3CyCBMrlJU",
+   "type": "text",
+   "text": "1 Doppelganger (LV 4) — wearing a familiar face from the escort",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!P0i50SSt9JuNTeeb.AHbnIe3CyCBMrlJU"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!P0i50SSt9JuNTeeb"
+}

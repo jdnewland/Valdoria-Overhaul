@@ -1,0 +1,117 @@
+{
+ "_id": "EyD9pOMOjuXAJ56a",
+ "name": "Combat — F8 The Saltings",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F8 The Saltings (24,12) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "3KXJpdBi9M5ltcK7",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!EyD9pOMOjuXAJ56a.3KXJpdBi9M5ltcK7"
+  },
+  {
+   "_id": "xOGrRNT53VodhXAa",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!EyD9pOMOjuXAJ56a.xOGrRNT53VodhXAa"
+  },
+  {
+   "_id": "fRdNvvzwtFWwSaE9",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!EyD9pOMOjuXAJ56a.fRdNvvzwtFWwSaE9"
+  },
+  {
+   "_id": "LhNuo4rEB0LPCDJ2",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!EyD9pOMOjuXAJ56a.LhNuo4rEB0LPCDJ2"
+  },
+  {
+   "_id": "c060OsAbalnRZ5Mr",
+   "type": "text",
+   "text": "1 Giant Crab (Overhaul)† (LV 5) — in the tidal creeks",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!EyD9pOMOjuXAJ56a.c060OsAbalnRZ5Mr"
+  },
+  {
+   "_id": "dFOFuXWO8GKNmX41",
+   "type": "text",
+   "text": "2d4 Pirate (LV 1) — salt-rakers turned wreckers",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!EyD9pOMOjuXAJ56a.dFOFuXWO8GKNmX41"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!EyD9pOMOjuXAJ56a"
+}

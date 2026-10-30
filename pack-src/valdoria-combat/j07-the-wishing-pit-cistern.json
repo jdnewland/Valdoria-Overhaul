@@ -1,0 +1,117 @@
+{
+ "_id": "S6OBpalToo3zzbhu",
+ "name": "Combat — J07 The Wishing Pit & Cistern",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for J07 The Wishing Pit & Cistern (17,12) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "k2K8biAc0ZdOL5KJ",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!S6OBpalToo3zzbhu.k2K8biAc0ZdOL5KJ"
+  },
+  {
+   "_id": "rjAVbAYjGseRIuBi",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!S6OBpalToo3zzbhu.rjAVbAYjGseRIuBi"
+  },
+  {
+   "_id": "TNPmg5xrXv4VS7tM",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!S6OBpalToo3zzbhu.TNPmg5xrXv4VS7tM"
+  },
+  {
+   "_id": "DqpA9ikkuPJ07rVD",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!S6OBpalToo3zzbhu.DqpA9ikkuPJ07rVD"
+  },
+  {
+   "_id": "HhrljZklCO5P6mVx",
+   "type": "text",
+   "text": "1d6 Skeleton (LV 2) — the watch that never stood down",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!S6OBpalToo3zzbhu.HhrljZklCO5P6mVx"
+  },
+  {
+   "_id": "LFMYDMWzpJ3wuT2E",
+   "type": "text",
+   "text": "1 Wight (LV 3) — the watch-captain, still collecting wishes",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!S6OBpalToo3zzbhu.LFMYDMWzpJ3wuT2E"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!S6OBpalToo3zzbhu"
+}

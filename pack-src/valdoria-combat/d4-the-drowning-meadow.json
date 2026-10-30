@@ -1,0 +1,117 @@
+{
+ "_id": "Rg8Z7Cx4C1Rlsd03",
+ "name": "Combat — D4 The Drowning Meadow",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for D4 The Drowning Meadow (17,14) · Mire / Marsh / Bog. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "sD6lQd71bV43FKn0",
+   "type": "text",
+   "text": "2d4 Lizardfolk (LV 2) — a hunting party in the reeds",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Rg8Z7Cx4C1Rlsd03.sD6lQd71bV43FKn0"
+  },
+  {
+   "_id": "USSAgYNOTdrJiiWh",
+   "type": "text",
+   "text": "1d4 Frog, Giant (LV 2) — tongues first, questions never",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Rg8Z7Cx4C1Rlsd03.USSAgYNOTdrJiiWh"
+  },
+  {
+   "_id": "LUzfWbA9nILfzmuw",
+   "type": "text",
+   "text": "2d6 Leech, Giant (LV 2) — in the black water",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Rg8Z7Cx4C1Rlsd03.LUzfWbA9nILfzmuw"
+  },
+  {
+   "_id": "7xcFegfJTkFFofI2",
+   "type": "text",
+   "text": "1 Violet Fungus (LV 2) — rooted in the path; it doesn't chase, it waits",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Rg8Z7Cx4C1Rlsd03.7xcFegfJTkFFofI2"
+  },
+  {
+   "_id": "v68tyzoTooc4G3f0",
+   "type": "text",
+   "text": "2d4 Leech of Paradise† (LV 0) — the black water is full of blessings",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Rg8Z7Cx4C1Rlsd03.v68tyzoTooc4G3f0"
+  },
+  {
+   "_id": "sjsOLvshOOzeYvjF",
+   "type": "text",
+   "text": "⚠ 1 Hippopotamus† (LV 8) — a pod-beast defending the drowned fences",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Rg8Z7Cx4C1Rlsd03.sjsOLvshOOzeYvjF"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!Rg8Z7Cx4C1Rlsd03"
+}

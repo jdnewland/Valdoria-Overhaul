@@ -1,0 +1,117 @@
+{
+ "_id": "zJo8qoNDqIsHJLXI",
+ "name": "Combat — B10 The Tower's Brow",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for B10 The Tower's Brow (21,11) · Hills / Mountains. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "DZoAbxWZS8VMPzVK",
+   "type": "text",
+   "text": "1 Harpy (LV 3) — singing from the crags",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!zJo8qoNDqIsHJLXI.DZoAbxWZS8VMPzVK"
+  },
+  {
+   "_id": "gp0fF0D3SWfDorfU",
+   "type": "text",
+   "text": "1 Wyvern (LV 3) — nesting on the ledges",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!zJo8qoNDqIsHJLXI.gp0fF0D3SWfDorfU"
+  },
+  {
+   "_id": "f4wov868UbXaY3Bz",
+   "type": "text",
+   "text": "2d6 Ape (LV 2) — a troop defending the high pass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!zJo8qoNDqIsHJLXI.f4wov868UbXaY3Bz"
+  },
+  {
+   "_id": "0s8DnVnVPBg2MBAV",
+   "type": "text",
+   "text": "2d4 Goblin (LV 1) — Greyspine raiders on the high paths",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!zJo8qoNDqIsHJLXI.0s8DnVnVPBg2MBAV"
+  },
+  {
+   "_id": "WiCc1KlGDVNMIEys",
+   "type": "text",
+   "text": "1d4 Panther (Overhaul)† (LV 3) — hunting the brow herds at dusk",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!zJo8qoNDqIsHJLXI.WiCc1KlGDVNMIEys"
+  },
+  {
+   "_id": "UDGApSNJQ6Y2SOhf",
+   "type": "text",
+   "text": "1 Shadow (LV 3) — the tower's shadow, climbing with teeth",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!zJo8qoNDqIsHJLXI.UDGApSNJQ6Y2SOhf"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!zJo8qoNDqIsHJLXI"
+}

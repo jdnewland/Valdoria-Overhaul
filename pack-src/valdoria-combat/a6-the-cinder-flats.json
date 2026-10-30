@@ -1,0 +1,117 @@
+{
+ "_id": "ZduJPr2H3LkGfKmy",
+ "name": "Combat — A6 The Cinder Flats",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for A6 The Cinder Flats (14,11) · Desert / Cinder Wastes. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "w7pOxQwPjAMC0Xjq",
+   "type": "text",
+   "text": "1d6 Vulture (LV 1) — circling something dead; bold if the party is bleeding",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!ZduJPr2H3LkGfKmy.w7pOxQwPjAMC0Xjq"
+  },
+  {
+   "_id": "xpXvqwtW4556aJFO",
+   "type": "text",
+   "text": "1 Ankheg (LV 3) — bursting from the ash drift",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!ZduJPr2H3LkGfKmy.xpXvqwtW4556aJFO"
+  },
+  {
+   "_id": "KS7SRaOPQcIji5Kd",
+   "type": "text",
+   "text": "2d4 Baboon† (LV 1) — a raiding troop; grabs loose gear and runs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!ZduJPr2H3LkGfKmy.KS7SRaOPQcIji5Kd"
+  },
+  {
+   "_id": "WYgkF7wqcb29ilgX",
+   "type": "text",
+   "text": "2d6 Scorpion (LV 0) — under rocks and cactus roots",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!ZduJPr2H3LkGfKmy.WYgkF7wqcb29ilgX"
+  },
+  {
+   "_id": "XCJIxi5vJBZsV1C7",
+   "type": "text",
+   "text": "1 Scorpion, Giant (LV 3) — camel-sized, basking in the ash dunes",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!ZduJPr2H3LkGfKmy.XCJIxi5vJBZsV1C7"
+  },
+  {
+   "_id": "rrxlXmAPqNOl9b8v",
+   "type": "text",
+   "text": "⚠ 1 Bulette (LV 8) — the landshark of the flats; run",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!ZduJPr2H3LkGfKmy.rrxlXmAPqNOl9b8v"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!ZduJPr2H3LkGfKmy"
+}

@@ -1,0 +1,117 @@
+{
+ "_id": "a8B2Wi73NPnduMD4",
+ "name": "Combat — J14 The Temple of Light",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for J14 The Temple of Light (18,13) · Settlement / Road. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "qYD3AVUD3pJmfQ2N",
+   "type": "text",
+   "text": "2d4 Guard (LV 1) — a patrol that wants names; combat if resisted",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!a8B2Wi73NPnduMD4.qYD3AVUD3pJmfQ2N"
+  },
+  {
+   "_id": "3pm1H1hNKvneoL1o",
+   "type": "text",
+   "text": "1d4 Thug (LV 3) — hired muscle",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!a8B2Wi73NPnduMD4.3pm1H1hNKvneoL1o"
+  },
+  {
+   "_id": "vTObe2xuKAISF6ez",
+   "type": "text",
+   "text": "2d4 Bandit (LV 1) — road agents and alley toughs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!a8B2Wi73NPnduMD4.vTObe2xuKAISF6ez"
+  },
+  {
+   "_id": "T3smnpwynN9xdTvD",
+   "type": "text",
+   "text": "1d6 Rat, Giant (LV 0) — cellar vermin, bold as cats",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!a8B2Wi73NPnduMD4.T3smnpwynN9xdTvD"
+  },
+  {
+   "_id": "NV3dPXgJdxMZ85fX",
+   "type": "text",
+   "text": "2d4 Guard (LV 1) — temple wardens; combat only if provoked",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!a8B2Wi73NPnduMD4.NV3dPXgJdxMZ85fX"
+  },
+  {
+   "_id": "Up8xXvYwujvczlI3",
+   "type": "text",
+   "text": "⚠ 1 Priest (LV 5) — if the Temple itself takes the field",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!a8B2Wi73NPnduMD4.Up8xXvYwujvczlI3"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!a8B2Wi73NPnduMD4"
+}

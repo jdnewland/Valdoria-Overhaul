@@ -1,0 +1,117 @@
+{
+ "_id": "wUQPgjRYGb3XKv1l",
+ "name": "Combat — B7 The Beacon Peak",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for B7 The Beacon Peak (23,10) · Hills / Mountains. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "Kkt8KNLrBp4xvw78",
+   "type": "text",
+   "text": "2d6 Ape (LV 2) — a troop defending the high pass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!wUQPgjRYGb3XKv1l.Kkt8KNLrBp4xvw78"
+  },
+  {
+   "_id": "F2faHfu3wPq6pTNP",
+   "type": "text",
+   "text": "2d4 Goblin (LV 1) — Greyspine raiders on the high paths",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!wUQPgjRYGb3XKv1l.F2faHfu3wPq6pTNP"
+  },
+  {
+   "_id": "BO0ymzkg9LuVaa7S",
+   "type": "text",
+   "text": "1 Harpy (LV 3) — singing from the crags",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!wUQPgjRYGb3XKv1l.BO0ymzkg9LuVaa7S"
+  },
+  {
+   "_id": "NMoyJn8YUIbBmn4I",
+   "type": "text",
+   "text": "1 Wyvern (LV 3) — nesting on the ledges",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!wUQPgjRYGb3XKv1l.NMoyJn8YUIbBmn4I"
+  },
+  {
+   "_id": "VFQyvK4xjb21BCwD",
+   "type": "text",
+   "text": "1d4 Harpy (LV 3) — nesting in the beacon basket",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!wUQPgjRYGb3XKv1l.VFQyvK4xjb21BCwD"
+  },
+  {
+   "_id": "DEjyQwYAEUQBCa8z",
+   "type": "text",
+   "text": "1 Pterodactyl (LV 4) — riding the sea-wind up the peak",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!wUQPgjRYGb3XKv1l.DEjyQwYAEUQBCa8z"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!wUQPgjRYGb3XKv1l"
+}

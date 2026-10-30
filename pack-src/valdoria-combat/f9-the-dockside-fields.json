@@ -1,0 +1,117 @@
+{
+ "_id": "Hwig6AFoFC7xV5fV",
+ "name": "Combat — F9 The Dockside Fields",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for F9 The Dockside Fields (23,13) · Meadow / Grassland. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "nySP48gXURmXvi5p",
+   "type": "text",
+   "text": "2d4 Wolf (LV 2) — testing the party for weakness",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Hwig6AFoFC7xV5fV.nySP48gXURmXvi5p"
+  },
+  {
+   "_id": "m4SiX8aYTbSJLGpc",
+   "type": "text",
+   "text": "1d4 Velociraptor (LV 2) — pack hunters in the tall grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Hwig6AFoFC7xV5fV.m4SiX8aYTbSJLGpc"
+  },
+  {
+   "_id": "SydhuqPfFHkcLtvQ",
+   "type": "text",
+   "text": "2d6 Hive Insect† (LV 2) — a foraging swarm, fixated on food and salt",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Hwig6AFoFC7xV5fV.SydhuqPfFHkcLtvQ"
+  },
+  {
+   "_id": "QN1x6uxEW5ttTgIK",
+   "type": "text",
+   "text": "1 Smilodon (LV 3) — an ambush out of the grass",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Hwig6AFoFC7xV5fV.QN1x6uxEW5ttTgIK"
+  },
+  {
+   "_id": "8KMho3BgBthbu7NC",
+   "type": "text",
+   "text": "2d4 Thug (LV 3) — press-gang recruiters working the gardens",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Hwig6AFoFC7xV5fV.8KMho3BgBthbu7NC"
+  },
+  {
+   "_id": "ZabH8ZMjJfFYIUeQ",
+   "type": "text",
+   "text": "1d6 Rat, Swarm (LV 2) — out of the tithe barns",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!Hwig6AFoFC7xV5fV.ZabH8ZMjJfFYIUeQ"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!Hwig6AFoFC7xV5fV"
+}

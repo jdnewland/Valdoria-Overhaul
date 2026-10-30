@@ -1,0 +1,117 @@
+{
+ "_id": "TNncb9Zsyr7CZTyj",
+ "name": "Combat — J16 Vitela",
+ "img": "icons/svg/dice-target.svg",
+ "description": "Combat encounters (d6) for J16 Vitela (21,14) · Settlement / Road. Rolls 1-4: terrain family. Rolls 5-6: signature. † = The Monster Overhaul (imported). ⚠ = over-level: flee or negotiate.",
+ "formula": "1d6",
+ "replacement": true,
+ "displayRoll": true,
+ "results": [
+  {
+   "_id": "kIPqJjFHAkD9gvup",
+   "type": "text",
+   "text": "2d4 Bandit (LV 1) — road agents and alley toughs",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    1,
+    1
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!TNncb9Zsyr7CZTyj.kIPqJjFHAkD9gvup"
+  },
+  {
+   "_id": "ag9oXgRIJmksM5Uv",
+   "type": "text",
+   "text": "1d6 Rat, Giant (LV 0) — cellar vermin, bold as cats",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    2,
+    2
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!TNncb9Zsyr7CZTyj.ag9oXgRIJmksM5Uv"
+  },
+  {
+   "_id": "eRiODdIjdY9sQp2r",
+   "type": "text",
+   "text": "2d4 Guard (LV 1) — a patrol that wants names; combat if resisted",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    3,
+    3
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!TNncb9Zsyr7CZTyj.eRiODdIjdY9sQp2r"
+  },
+  {
+   "_id": "q6KJHIYWNewdzErD",
+   "type": "text",
+   "text": "1d4 Thug (LV 3) — hired muscle",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    4,
+    4
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!TNncb9Zsyr7CZTyj.q6KJHIYWNewdzErD"
+  },
+  {
+   "_id": "r1dD6R5i4i816wYU",
+   "type": "text",
+   "text": "2d4 Guard (LV 1) — the Iron Docks chain-watch",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    5,
+    5
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!TNncb9Zsyr7CZTyj.r1dD6R5i4i816wYU"
+  },
+  {
+   "_id": "AQPmx88n2byqo4XK",
+   "type": "text",
+   "text": "1d6 Rat, Swarm (LV 2) — the harbor's real population, rising",
+   "img": "icons/svg/dice-target.svg",
+   "documentCollection": "",
+   "documentId": null,
+   "resultId": null,
+   "weight": 1,
+   "range": [
+    6,
+    6
+   ],
+   "drawn": false,
+   "flags": {},
+   "_key": "!tables.results!TNncb9Zsyr7CZTyj.AQPmx88n2byqo4XK"
+  }
+ ],
+ "folder": null,
+ "flags": {},
+ "sort": 0,
+ "_key": "!tables!TNncb9Zsyr7CZTyj"
+}

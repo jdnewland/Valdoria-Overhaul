@@ -1,0 +1,138 @@
+{
+  "_id": "CjAkcqr7Xbtk5YJD",
+  "name": "Panther (Overhaul)",
+  "type": "NPC",
+  "img": "modules/valdoria-overhaul/art/panther.png",
+  "system": {
+    "level": {
+      "value": 3
+    },
+    "attributes": {
+      "ac": {
+        "value": 11,
+        "base": 11
+      },
+      "hp": {
+        "value": 14,
+        "max": 14,
+        "base": 14
+      }
+    },
+    "abilities": {
+      "str": {
+        "mod": 2,
+        "base": 14
+      },
+      "dex": {
+        "mod": 3,
+        "base": 16
+      },
+      "con": {
+        "mod": 1,
+        "base": 12
+      },
+      "int": {
+        "mod": -2,
+        "base": 6
+      },
+      "wis": {
+        "mod": 1,
+        "base": 12
+      },
+      "cha": {
+        "mod": -1,
+        "base": 8
+      }
+    },
+    "notes": "A large slim cat, silent but for the occasional yowl. A patient and cunning ambush hunter.\n\nConverted from The Monster Overhaul (Mysterious Mountains, p. 266). LV = HD, HP as printed; Shadowdark conversion by the Valdoria importer."
+  },
+  "prototypeToken": {
+    "name": "Panther (Overhaul)",
+    "texture": {
+      "src": "modules/valdoria-overhaul/art/panther.png"
+    },
+    "actorLink": false,
+    "bar1": {
+      "attribute": "attributes.hp"
+    }
+  },
+  "items": [
+    {
+      "_id": "ez6BUbLYIMO37yKx",
+      "name": "Claw +5 (1d4) \u00d72",
+      "type": "NPC Attack",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "attack": "",
+        "attackType": "",
+        "bonuses": {},
+        "damage": "1d4",
+        "ranges": "near"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!CjAkcqr7Xbtk5YJD.ez6BUbLYIMO37yKx"
+    },
+    {
+      "_id": "pyHumLznFxRVt23y",
+      "name": "Bite +5 (1d6)",
+      "type": "NPC Attack",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": "",
+        "source": "",
+        "attack": "",
+        "attackType": "",
+        "bonuses": {},
+        "damage": "1d6",
+        "ranges": "near"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!CjAkcqr7Xbtk5YJD.pyHumLznFxRVt23y"
+    },
+    {
+      "_id": "lKrxaTFVL2kRi0IK",
+      "name": "Ambush Leap",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "Leaps 20 ft forward and 10 ft high from concealment. If both claw attacks hit the same target, the bite attack automatically hits.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!CjAkcqr7Xbtk5YJD.lKrxaTFVL2kRi0IK"
+    },
+    {
+      "_id": "NMcOzSHx0yzQqA4v",
+      "name": "Fair-Weather Hunter",
+      "type": "NPC Feature",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "description": "If its ambush fails, the panther must test Morale or flee. It drags kills into trees as larders and warnings.",
+        "source": "",
+        "predefinedEffects": []
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {},
+      "sort": 0,
+      "_key": "!actors.items!CjAkcqr7Xbtk5YJD.NMcOzSHx0yzQqA4v"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "flags": {},
+  "sort": 0,
+  "_key": "!actors!CjAkcqr7Xbtk5YJD"
+}
